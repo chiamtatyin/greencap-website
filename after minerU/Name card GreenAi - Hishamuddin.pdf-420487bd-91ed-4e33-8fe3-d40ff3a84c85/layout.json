@@ -1,0 +1,189 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        22,
+                        47,
+                        110,
+                        66
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                47,
+                                110,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        47,
+                                        110,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "Hishamuddin Bin Selamat DIRECTOR +6016-7487889"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        22,
+                        72,
+                        111,
+                        84
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                72,
+                                111,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        72,
+                                        111,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "HQ: No.32 Wisma SPS. Jalan Imbi 55100 Kuala Lumpur, Malaysia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        22,
+                        90,
+                        113,
+                        108
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                90,
+                                113,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        90,
+                                        113,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "Branches: No.54- A Jalan Utama 44, Taman Mutiara Rini 81300 Skudai, Johor, Malaysia."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        22,
+                        117,
+                        115,
+                        126
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                117,
+                                115,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        117,
+                                        115,
+                                        126
+                                    ],
+                                    "type": "text",
+                                    "content": "Email: hishamuddin640102@gmail.com No.fax: +607- 5596107 No.hp: +6016- 7487889"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        152,
+                        46,
+                        223,
+                        124
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                152,
+                                46,
+                                223,
+                                124
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        152,
+                                        46,
+                                        223,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                152,
+                                                46,
+                                                223,
+                                                124
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3a76ab27eef22ed0d40b025ff083355e5fa351a3487e4b001a5faeed847f032c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                240,
+                155
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.0.6"
+}

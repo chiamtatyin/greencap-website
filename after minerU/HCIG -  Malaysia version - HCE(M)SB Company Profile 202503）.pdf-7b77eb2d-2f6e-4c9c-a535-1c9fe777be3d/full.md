@@ -1,0 +1,1560 @@
+# 袁宇
+
+# 筑迹
+
+中海海外建设发展有限公司湖南建设投资集团国际合作部
+
+![](images/0490bca3356d2c69645c074b4e87ac6e9b11e413bdf3b97528b1c2d953fe675e.jpg)
+
+# Malaysia | Famous Project马来西亚 | 工程项目
+
+![](images/d69a61a695b0664933b75f59ea04962c1acbdef4185d75c2cdc4551920c34c8c.jpg)
+
+# Travel Over the Mountains and Seas | Global Layout 阅遍山海 | 布局寰宇
+
+HUNAN CONSTRUCTION ENGINEERING (M) SON.BHI 测南建工集团马来西亚有限公司 02
+
+Country Garden Danga Bay Project 营桂园金海湾项目 03
+
+8 Units of Nitrile Glove Dipping Line 8条丁腊手套生产线项目 04
+
+8 Units of Nitrile Glove Dipping Line 8条丁腊手套生产线项目 04
+
+Supply and Installation of Chimney Superstructure for MFB1 AHP文德甲造纸厂改扩建工程第一期（烟囱项目） 04
+
+4.99MW Photovoltaic Plant at Tawau, Sabah, Malaysia 斗源4.99MW光伏电站工程 05
+
+Pahangbarat Integrated 44.6MW Hydropower Station 多亨纳44.6MW综合水电站 06
+
+Establishment of PMU 275/132/33KV Kusla Terenggan South. 登嘉模南部275/132/33KV变电站 06
+
+Andorra Specialist Hospital Bandar Baru Uda Project 马来西亚新山医院专科综合楼及停车场EPC项目 07
+
+Central Spine Road Pakej 3:Gua Musang Kelantan ke Ang. Relong, Pahang seksyen 3D
+
+吉兰丹州瓜拉慕桑尼亚罗州甘顿勒隆道路，第3D段 07
+
+Business Scope | Combining Engineering with Trade, 02 Spreads Over the World 业务范围 | 工程贸易 | 行遍全球 09
+
+Enterprise Qualifications | Comprehensive Professionals and Complete Categories 13
+
+Development Process | Based on Transformation and Upgrading 15 发展进程 | 立足转型升级飞跃 15
+
+Global Layout | Across Five Continents and in 40+ Countries 17 全球布局 | 跨越五大洲 | 通布40+个国家 17
+
+Global Layout | Across Five Continents and in 40+ Countries 17
+
+全球布局 | 跨越五大洲 | 通布40+个国家 17
+
+Innovative Development | Integration of Investment, Construction and Operation + Integrated Development of Production, Engineering and Trade 19 创新发展 | 投建营一体化 + 产工贸融合发展 19
+
+# Famous Projects | Architectural Projects Standing All Over the World
+
+工程名建 | 筑迹全球
+
+House Building | Millions of Buildings
+
+房屋建筑 | 厂厦千万间 22
+
+Roads and Bridges | Smooth Travel for Ten Thousand Miles
+
+道路桥梁 | 通达万里行 31
+
+Water Conservancy | Tapping the Unlimited Energy of Rivers
+
+水利工程 | 河川无限能 39
+
+Mechanical and Electrical Installation | Crossing Counters | Bidger
+
+机电安装 | 安享无数界 43
+
+Electric Power | New Channels for Power Generation 45
+
+电力工程 | 发电新通路 45
+
+Electric Power | New Channels for Power Generation
+
+电力工程 | 发电新通路 45
+
+Municipal | New Power for People's Livelihood 51
+
+市政工程 | 民生新力量 51
+
+Port and Waterway | New Berths for Channels 57
+
+港口与航道 | 航道新沿岸 57
+
+![](images/7c3e63e7f6b8b11f92d72df22649bffb4c6b2dc18ca6dc48806b50ff346c01c2.jpg)
+
+# Merging All Places | Trading Connecting the World
+
+融汇九州 | 贸通四海
+
+Promote the coordinated development of international engineering and international trade business 61
+
+推动国际工程与国际贸易业务协同发展 61
+
+Main Products 65 主营产品 65
+
+Innovation Development Cases 67 创新发展案例 67
+
+# Excellent Product | Leading Innovation 产品卓越 | 创新领先
+
+Social Responsibility | Sincerity & Integrity Culture | Corporate Mission / Quality Concept / Brand Concept / Strategic Goals / Enterprise Spirit / Corporate Vision 社会责任 | 诚正文化 | 企业使命 | 质量理念 品牌理念 | 战略目标 | 企业精神 | 企业愿景 69
+
+# SHICO 01
+
+# First-class, Innovation, Honesty, Dedication
+
+一流 | 创新 | 诚正 | 奉献
+
+# HUNAN CONSTRUCTION ENGINEERING (M) SDN.BHD.
+
+# 湖南建工集团马来西亚有限公司
+
+HUNAN CONSTRUCTION ENGINEERING (M) SDN.BHD. established in August 2014, has a wholly- owned subsidiary (100% holding) of a large state- owned enterprise in China, HUNAN CONSTRUCTION ENGINEERING GROUP. The company registration number is 116749- H, Mainly business scope includes: Real Estate Development, Construction, Investment, Import and Export trade, etc. The annual turnover exceeds RM100 million, and there are 20 Chinese employees and more than 20 foreign employees.
+
+湖南建工集团马来西亚有限公司成立于2014年8月，是中国大型国有企业湖南建工集团有限公司驻马来西亚的全资子公司（100%控股）。公司注册号116749- H，业务范围主要包括房地产开发、建筑施工、投资、进出口贸易等，年营业额11亿马币，现有中方雇员20余人，外籍雇员20余人。
+
+![](images/a864e5827c6363f2006dfced2876e1312978552366a55c54615aaa069387242e.jpg)
+
+马来西亚公司委员会注册证书
+
+![](images/f5cf33a538ed3771e140ff04f33c1d05a6b5ac69c36462f4785635e6ca7e9652.jpg)
+
+# 8 Units of Nitrile Glove Dipping Line 8条丁晴手套生产线项目
+
+Owner: Hansal Group & Marketing Sdn. Bhd. Project Cost: 80 Million RM Construction Period: 15 months Capacity: 30,000 Pieces / hour / line
+
+业主名称：汉赛尔集团营销有限公司造 价：8000万马币工 期：15个月产 能：30000只/砂/线
+
+![](images/448c37d156aa184f9e3796f5e4f73f0d4a23a2b32385c0489fe1a9b6306dd567.jpg)
+
+![](images/a1b53196a394e12bbc314d7084a126305d138fd50b794af598d44bc808ded960.jpg)
+
+Supply and Installation of Chimney Superstructure for MFB1 AHP文德甲造纸厂改扩建工程第一期（烟囱项目）
+
+Owner: Asia Honor Paper Industrial (M) Sdn. Bhd. Project Cost: 9 Million RM Construction Period: 180 Calendar Days Construction height: 80 Meters
+
+业主名称：亚洲荣誉纸业（马来西亚）有限公司造 价：900万马币工 期：180日历天高 度：80米
+
+# 4.99MW Photovoltaic Plant at Tawau, Sabah, Malaysia.  斗湖4.99MW光伏电站工程
+
+Pahangbarat Integrated 44.6MW  Hydropower Station, Malaysia  彭亨州44.6MW综合水电站
+
+Owner: Ditrolic Sdn.Bhd.  Project Cost: 24.3 Million RM  Construction Period: 7 Months  Capacity: 4.99MW
+
+业主名称：Ditrolic Sdn.Bhd.  造价：2430万马币  工期：7个月  规模：4.99MW
+
+Owner: Cabaran Hijau Sdn.Bhd.  Denai Delima Sdn.Bhd.  Selat Serasi Sdn.Bhd.  Project Cost: 591 Million RM  Construction Period: 48 Months  Capacity: 44.6MW
+
+业主: Cabaran Hijau Sdn.Bhd.  Denai Delima Sdn.Bhd.  Selat Serasi Sdn.Bhd.  造价：59100万马币  工期：48个月  规模：44.6MW
+
+![](images/a826c6843274fd1982329f0353ba019acb7394a55ec3e4d57d664baa2ede4d57.jpg)
+
+Establishment of PMU 275/132/33KV  Kuala Terengganu South.  登嘉楼南部275/132/33KV变电站
+
+Owner: Tenaga Nasional Berhad (TNB)  Project Cost: 107.9 Million RM  Construction Period: 912 Calendar Days  Capacity: 275/132/33KV
+
+业主名称：马来西亚国家能源公司  造价：10791.9万马币  工期：912日历天  规模：275/132/33KV
+
+![](images/5bb3e951c7816e6bfc8d3ff046aef2519a64dcac64053ff0c4de7584451d2ca8.jpg)
+
+![](images/6bddec2ee4b92f04a112ba99a9abccf6b4845839435fbdf71a6c812f455a5386.jpg)
+
+# Andorra Specialist Hospital Bandar Baru Uda Project马来西亚新山医院专科综合楼及停车场EPC项目
+
+Owner: Kencana Healthcare Sdn.Bhd. Project Cost: 28.5 Million RM (Phase I) 150 Million RM (Phase II) Construction Period: 8+24 Months Capacity: One Hospital Building (Block A) & One Multi-storey Carpark Building (Block B)
+
+业主名称：肯卡纳医疗保安有限公司造价：一期2850万马币二期15000万马币工期：8个月+24个月规模：A栋3层医院大堂、B栋7层停车场大楼及其基础设施和辅助工程。
+
+![](images/0ec46b0174e7ec8a04577daed5572c6c759fe1edc6ceb87e5cb2f45ac204482e.jpg)
+
+Central Spine Road Pakej 3:Gua Musang Kelantan ke Kg. Relong, Pahang seksyen 3D
+
+吉兰丹州瓜拉慕桑至彭亨州甘榜勒隆道路，第3D段
+
+![](images/259995a6c923aaaf8d6d0b8faed747fb23668be7abbca140758d42486775796e.jpg)
+
+![](images/a566af87a3496bd7d9b01b0cad82f94daa4a67dfc207e2584af0ae51bd04b6e1.jpg)
+
+# 02
+
+# Travel Over the Mountains and Seas Global Layout
+
+阅道山海 布局寰宇
+
+# Sino-Hunan International Engineering and Development Co., Ltd. (SHICO)
+
+中湘海外建设发展有限公司
+
+SHICO, formerly known as Overseas Engineering Company of Hunan Construction Engineering Group Co., Ltd., is the main enterprise responsible for international project contracting and international trade under Hunan Construction Investment Group (i.e. the International Cooperation Department of Hunan Construction Investment Group). Its business involves more than 30 countries and regions around the world, and it has been deeply involved in regional markets such as Asia, Europe, Africa, Oceania, and the Americas for many years. The company has completed more than 50 foreign aid projects and more than 200 international contracting projects. On behalf of HGIC, we have made remarkable achievements in international operations. We have been selected as one of ENR Top 250 Global Contractors six times, and been awarded an AAA credit rating for China's foreign contracting enterprises many times. SHICO has been rated as an "Advanced Enterprise in Social Responsibility" by the China International Contractors Association. Many projects have won the highest honorary medals issued by the host country's government, as well as the "Luban Award for Overseas Projects", the "Hunan Province Construction Project Lotus Awards" and other honors.
+
+中湘海外建设发展有限公司前身为湖南建工集团海外工程公司，是湖南建设投资集团所属负责国际工程总承包和国际贸易的主体企业（暨湖南建设投资集团国际合作部），业务涉及全球30多个国家和地区，在亚洲、欧洲、非洲、大洋洲、美洲等区域市场深耕多年；先后完成对外援助项目50余项，国际承包工程200余项。公司代表集团开展的各类国际业务成绩显著，六次入选ENR国际承包商250强；多次获评中国对外承包工程企业信用等级AAA级。被中国对外承包工程商会评为“社会责任先进型企业”，多个项目荣获所在国政府颁发的最高荣誉奖章，获评“境外工程鲁班奖”“湖南省建设工程芙蓉奖”等荣誉。
+
+![](images/5b56eae2718e96e3317d9fb5146525817891bba8f27a890fe9103515be682da3.jpg)
+
+# Sino-Hunan International Engineering and Development Co., Ltd. (SHICO) 中湘海外建设发展有限公司
+
+As the presidential unit of the Hunan Association of Foreign Economic Cooperation Enterprises, the presidential unit of the Hunan Construction Industry "Going Global" Strategic Cooperation Alliance, and an executive vice presidential unit of the China- Africa Economic and Trade Promotion Council, we will endeavor to promote the high- quality development of the "Belt and Road Initiative", create a "four- in- one" development pattern via "integration of investment, construction and operation" and "interaction of Engineering and Trade" to contribute new and greater efforts toward achieving the "Three Highs and Four News" vision and creating a new highland for inland reform and opening up.
+
+In 2018, SHICO was the first to receive the 2018 SHICO World Trade奖。战略合作联盟理事长单位、湖南省中非经贸合作研究促进会常务副会长单位。公司将深入贯彻党的二十大精神，奋力推进共建“一带一路高质量发展。通过“投建管一体化”“工贸联动”打造国际业务投资、建设、运营、贸易“四位一体”发展格局，为助力实现“三高四新”美好蓝图，打造内陆改革开放新高地做出新的更大的贡献。
+
+Business ScopeCombining Engineering with Trade, Spreads Over the World,业务范围 | 工程贸易 行遍全球
+
+# International Engineering 国际工程
+
+Covering house building, roads and bridges, electric power, mechanical and electrical installation, water conservancy, municipal, port and waterway, etc.涵盖房屋建筑、道路桥梁、电力工程、机电安装、水利工程、市政工程、港口与航道等板块
+
+# International Trade 国际贸易
+
+Involves import and export trade of building materials, electronic- chemical products and bulk commodities, entrepot trade, exhibition services, service trade and other fields.涉及建材机电、大宗商品等进出口贸易、转口贸易、会展服务、服务贸易等领域
+
+Enterprise Qualifications Comprehensive Professionals and Complete Categories 企业资质|专业齐全类目完备
+
+# International Business Qualifications
+
+国际业务资质
+
+贸易|对外援助等（17个）
+
+# Construction Qualifications
+
+施工资质
+
+Special Qualifications (7)
+
+特级（7个）
+
+![](images/736f63663fa24a639469adb8ac3187b102e5b8b4e1f85b9c0f1915891845a858.jpg)
+
+二级（83个）
+
+# Design Qualifications
+
+设计资质
+
+![](images/b916f9ce750e3e9016343e6269448cff3c32a0c069691470eee116778721e534.jpg)
+
+四级（7个）
+
+二级（12个）
+
+三级（25个）
+
+四级（25个）
+
+五级（25个）
+
+六级（25个）
+
+七级（25个）
+
+八级（25个）
+
+九级（25个）
+
+10级（25个）
+
+二级（154个）
+
+三级（12个）
+
+四级（12个）
+
+二级（12个）
+
+三级（12个）
+
+四级（12个）
+
+五级（12个）
+
+六级（12个）
+
+七级（12个）
+
+八级（12个）
+
+九级（12个）
+
+10级（12个）
+
+贸易|对外援助等（17个）
+
+# 国际业务资质
+
+Level 1
+
+154 Qualifications (7)
+
+特级（7个）
+
+二级（12个）
+
+# Design Qualifications
+
+设计资质
+
+三级（12个）
+
+四级（12个）
+
+二级（12个）
+
+三级（12个）
+
+四级（12个）
+
+五级（12个）
+
+六级
+
+七级（12个）
+
+八级（12个）
+
+九级（12个）
+
+十级（12个）
+
+贸易|对外援助等（17个）
+
+# 国际业务资质
+
+# 国际业务资质
+
+贸易|对外援助等（17个）
+
+# 国际业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+国际业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国际业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（1
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国际贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个） 国际业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国务业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17中）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国务院业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17年）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个)
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）国家业务资质
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17个）。
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（ 17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+54 Qualifications (154)
+
+贸易|对外援助等（17个）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17(17)
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（25个）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（325）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等(17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+12 Qualifications (12)
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等(25个)
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等（17（17）
+
+贸易|对外援助等
+
+# Development Process Based on Transformation and Upgrading
+
+发展进程 | 立足转型 升级飞跃
+
+![](images/efb55d2215a5d8fb117e78d24f16e59bd42b71100275c4c88971ccaff43b952a.jpg)
+
+![](images/bbbf162ca8c094933d0e8119e0f7bf77d5186f21c200cef980bf99e7a4644b03.jpg)
+
+![](images/3585bf2ea5e01cdb3d6c37bf5f17e059efdb3762575c5a96390628c6f09cfa35.jpg)
+
+# Innovative Development Integration of Investment, Construction and Operation + Integrated Development of Production, Engineering and Trade创新发展 | 投建营一体化+产工贸融合发展
+
+As the main international engineering and international trade company of Hunan Construction Investment Group (HCIG), SHICO has given full play to its leading role and linking multiple secondary units to carry out various modes of cooperation based on the traditional business model (including spot exchange and financing) and through the innovative development of the transformation business model (integration of investment, construction and operation, and integrated development of production, engineering and trade). SHICO promotes both the quantity and quality of international business, strives to build Hunan's first brand in foreign trade and economic cooperation, builds a major carrier of economic and trade cooperation with Africa, and helps HCIG create a world- class construction and investment enterprise.
+
+中海海外建设发展有限公司作为湖南建设集团国际工程和国际贸易的主体企业，在致力于传统业务模式（包含现汇和融资类）的基础上，通过转型业务模式（投建营一体化和产工贸融合发展）的创新发展，充分发挥头作用并联动多家二级单位开展多种模式合作，促进国际业务量质齐升，致力打造湖南对外经贸第一品牌，打造对非经贸合作的主要载体，助力集团创建世界一流建设投资企业。
+
+![](images/e93000af4a65903febca96727572af09765549d3f4cea00ab2dc51bb6dd007d8.jpg)
+
+# SHICO 03
+
+# HOUSE BUILDING
+
+房屋建筑|广厦千万间
+
+With a total construction area of approximately 18,000m², it can accommodate 20,000 people as the first modernized wrestling stadium in Africa. After its completion, Chinese President Xi Jinping handed over the "Golden Key" of the project to the Presidents of Senegal, which becomes a new symbol of China- Senegal friendship. The project was awarded the highest medal of honor by the Senegalese government, the first China Construction Engineering Luban Award (Overseas Projects) in Hunan, gold medal of China Steel Structure.
+
+项目总建筑面积约1.8万m²,可同时容纳2万名观众,是非洲首座现代化排跤场。项目建成后由中国国家主战习近平向美国总统移交项目“金钥匙”,成为中塞友谊新标志。联赛内加尔政府授予集团最高荣誉勋章、湖南省首个中国建设工程鲁班奖(境外工程)、中国钢结构金奖。
+
+Famous Projects Architectural Projects Standing All Over the World
+
+工程名建 | 筑迹全球
+
+(Senegal) The China- aided Competitive Wrestling Stadium Project
+
+（塞内加尔）竞技摔跤场项目
+
+# (Burundi) The China-aided Presidential Palace Project
+
+（布隆迪）总统府项目
+
+It is a landmark in Burundi, with a total construction area of about 10,000 m2, adopting Chinese standards on engineering and construction quality. It consists of office building, rooms for security and service personnel, rooms for supporting equipment, and sewage treatment station.
+
+项目是布隆迪地标性建筑，总建筑面积约10000m2，工程标准和建设质量全部采用中国标准实施。主要包括总统办公楼、警卫用房、设备用房和污水处理站等设施。
+
+![](images/80caae31aa24811940a3d351f05cbe4c6609eeb6ec7d317ffdea35e5251df101.jpg)
+
+This project won Hunan Province Quality Engineering Award and Hunan Province Lotus Awards
+
+获湖南省优质工程 / 湖南省建设工程芙蓉奖
+
+![](images/fc0921d0c9f339b7553af122ce5fc645db9d64b10ea6e3b3a71c82ed9aac4034.jpg)
+
+该项目是中多合作标志性项目之一，是多米尼克重要的民生工程，目前是全国最大、医技水平最高的综合医院。总建筑面积达26300 m2，总体也增至250床，被泛美卫生组织评价为世界级的建设标准，是加勒比地区最先进的医疗中心。
+
+项目被多米尼克总理斯凯里特盛赞为中国赠送给多米尼克的珍贵礼物。多米尼克政府将之更名为“中多友谊医院”，获多米尼克国家杰出贡献勋章。
+
+# (New Zealand) Barrowcliffe Affordable Housing Project in Auckland
+
+（新西兰）奥克兰巴罗克里夫经济适用房项目改扩建工程
+
+![](images/6752f4926c6308d039fb96a4ea969e745aca31334cfc81662e7bd41782176f55.jpg)
+
+![](images/f7fc80fa2a58bc9d96ebcfd6103c6d86c74a48b2d2d056cf5a9ccdeff09bcae3.jpg)
+
+It is a "Benefit People's Livelihood" project cooperated with the New Zealand government, providing affordable housing for local low- income families and young first- home buyers in New Zealand.
+
+该项目是与新西兰政府合作的“惠民生”项目，为新西兰当地低收入家庭及年轻的首套购房者提供了可负担性住房。
+
+![](images/4b7dc533310856086f719ea328630435ce5fe5387600f13840adf1d5d14d3381.jpg)
+
+![](images/0fde3758a43d5c4f4ceaa522e3dcf1066ed2b4689f8aaf5bd063458f9e8c970e.jpg)
+
+The Iconic Tower (Office and Hotel) Project of the First Phase of the Zhuhai Shizimen Convention and Exhibition Business Group 珠海十字门会展商务组团一期标志性塔楼（办公酒店）工程
+
+![](images/7f60ec7fe9bb3f7ef888459ec0ac99a0bffd4beb4f705c736c64b64a34e84517.jpg)
+
+The project is a large- scale public high- end complex integrating exhibitions, conferences, theaters, hotels, business, and tourism. It has a construction area of approximately 146,000m² and a building height of 330m.
+
+该项目是集展览、会议、剧院、酒店、商务、旅游为一体的大型公共高端综合体建筑群，建筑面积约14.6万㎡，建筑高度330m。
+
+![](images/5feaa070d32781c1e5f323710773f6ec278d9067702e04152091e2f4acfa9168.jpg)
+
+(Malaysia) Golden Bay Project in Johor （马来西亚）柔佛州金清湾项目
+
+The project is a reinforced concrete shear wall structure, with a total construction area of about 167,000m². It consists of a total of five towers with a total building height of 139m.
+
+During the construction of the project, we adopted advanced local construction methods, among which the steel bar welded mesh construction technology won “Hunan Provincial Construction Method”. And the project won the 2015 “National Safe and Civilized Demonstration Site and Education and Training Base” Award issued by the JKKP of Malaysian Industrial Safety Commission.
+
+该项目的厂房混凝土剪力墙结构，总建筑面积约16万m²，共5栋塔楼，总建筑高度3139m。在建期间，吸收当地先进做法，钢筋焊接网片施工工艺获评“湖南省省级工法”；项目获得马来西亚工业安全委员会、JKKP组织颁发的2015年度“国家级安全文明示范工地及教育培训基地”奖。
+
+# ROADS AND BRIDGES
+
+道路桥梁 | 通达万里行
+
+（Congo Republic）National No.1 Highway
+
+[刚果（布）] 国家1号公路
+
+The total length of the project is nearly 600km, and after its completion, the daily traffic will increase by 40 times. SHICO is one of the subcontractors.
+
+该项目全长近600km。新路修通后每天通行车辆提升40倍。我司为分包商之一。
+
+（Georgia）E60 Highway (Section F2)（格鲁吉亚）E60高速公路（F2标段）
+
+The project was awarded as a typical case of foreign investment and economic cooperation of Hunan construction industry in 2020.
+
+获湖南省建筑业2020年度对外投资及经济合作典型案例。
+
+![](images/22c0423d7b8fbe1b51443210ae76d38cf9318703fdb69e861831f7623a8c2422.jpg)
+
+![](images/fddd3fbc3c000f7d8dc1fe1427d158198f7936dce516667c5b795068f8dfff41.jpg)
+
+该项目介于大、小高加索山脉之间，共有35座桥梁，20座隧道，桥隧比高达72.8%。项目极大地缓解E60现有路段的交通压力，大大缩短首都第比利斯和巴结、波季的客货运时间，对促进格鲁吉亚及亚欧区域经济和社会发展具有重要意义。
+
+# (Maldives) Construction of Link Road Connecting Hulhumale Island (Main Island) and Hulhule Project
+
+(马尔代夫) 胡鲁马累岛（主岛）与机场岛连接道路建设项目
+
+This project is the connection line of China- Maldives Friendship Bridge, which is the link road connecting Hulhumale Island (main island) and Hulhule Island. The total length of this road is 3.6km, the scope of work including the widening of the existing two- way two- lane to four lanes through hydraulic reclamation, the addition of a digue and the construction of a roundabout.
+
+After the completion of this project, it will greatly alleviate the traffic pressure caused by the opening of the China- Maldives Friendship Bridge, which will help the Maldivian people realize their century- old dream of connecting the three islands. This is also an important project to improve people's livelihood and promote economic development.
+
+该项目为中马友谊大桥连接线工程，即胡鲁马累岛（主岛）与机场岛连接道路，道路总长3.6km，包括现有双向两车道和双向桥梁至四车道、增设防浪堤及修筑环岛等施工任务。
+
+项目建成后大大缓解了中马友谊大桥通车后带来的交通压力，助力马尔代夫人民实现了三岛连通的世纪之梦，是幸福花开、推动经济发展的重要工程。
+
+![](images/44c9262a110bccd214f8d87af86c214a16ae76c0c52fea5eeb20db26c10d3586.jpg)
+
+![](images/5958a106ad1a3efa8a6504951cb4b48af4fa53b8197d2e956a64a952283bf7aa.jpg)
+
+The project team won the title of Sri Lanka's Excellent Enterprise issued by Kandy Highway Bureau
+
+获康堤公路局颁发的新里兰卡优秀企业称号
+
+![](images/228adcdad50d712a294e834019dc97fa396983c606e9491dcebec86d7c2b9e14.jpg)
+
+# Aizhai Bridge
+
+The main span of the Aizhai Bridge reaches 1,176m, and the vertical height of the bridge deck is 355m. It was completed and opened to traffic in 2012. It has set "four firsts in the world" and was praised by General Secretary Xi Jinping as "China's Full Moon". The "rail cable sliding method" pioneered by this project is recognized around the world as the "fourth bridge- building method."
+
+![](images/7e2e55fc0bf825018bf35d14602d26a8d63e45e081afb13406664692623d5d1c.jpg)
+
+![](images/77998757e6d660234580b7366d89a94b3e131f0f660cb73a4840fd777e010aa8.jpg)
+
+# Tongling Yangtze River Highway Bridge, Anhui安徽铜陵长江公路大桥
+
+The Tongling Yangtze River Highway Bridge in Anhui Province is a cable- stayed bridge with a main span of 432m. It was completed and opened to traffic in December 1995. It was the first bridge of its type in Asia and the third in the world at that time.
+
+安徽铜陵长江公路大桥，斜拉桥，主跨432m。1995年12月竣工通车，居当时同类型桥梁亚洲第一、世界第三。
+
+![](images/6acd302b12d7b4a7dc28e76ad9a77e16a2bfc5a907ac8bb92562b9803fa86c4a.jpg)
+
+![](images/72c7cfa364d9dad9f65f00538f93a8b8ec011e93e2564dd589bac800dfe16b99.jpg)
+
+The Shenzhen Bay Bridge in Guangdong is a cable- stayed bridge that was completed and opened to traffic in July 2007. It is our country's first cross- sea land channel connecting the mainland and Hong Kong. It was also the widest single- cable plane and cable- stayed bridge in the world at that time. It was also the widest highway bridge in China with the longest design life and the highest construction standards. Therefore, it was known as the "Rainbow on the Sea".
+
+7. 水深调河大桥，斜拉桥，2007年7月竣工通车，是我国第一条跨海连接内陆与香港的陆港通道，是当时世界上最宽的单条高科技桥，是国内首座、设计寿命最长、建造标准最高的公路大桥，被誉为“海上彩虹”。
+
+![](images/0dbfde815927a578c6cf88bb33227b2fd59e27fc782d03ecce97f603fc5aa885.jpg)
+
+# Dongting Lake Bridge in Dayue Expressway
+
+# 大岳高速洞庭湖大桥
+
+Dongting Lake Bridge in Dayue Expressway is a suspension bridge with a main span of 1,480m. It is the second largest "steel truss uspension bridge" in the world and the largest in China.
+
+大岳高速洞庭湖大桥，悬索桥，主跨1480m，是世界第二大、国内第一大“钢桁梁悬索桥”。
+
+![](images/a7d7065788ebc5556bb7f8eebd3cd6fdd0868cda736877dc97a16cd490b88dcc.jpg)
+
+![](images/23873f5742f2571e388d4b1c088a584c42646ca021282fab3fec228d17263288.jpg)
+
+# (Sierra Leone) China-aided Two Small Hydropower Projects in Charlotteand Makari, Sierra Leone
+
+(塞拉利昂)援塞拉利昂夏洛特与马卡里两座小水电站项目
+
+The project includes the construction of a new overflow dam, flood discharge and sand sluice, power station water intake gate, auxiliary dam, pressure steel pipes, factory buildings, power transmission and transformation lines, units, etc. The power station is equipped with three horizontal turbines with a total installed capacity of 2,200kw and the length of power transmission and transformation lines is approximately 13km.
+
+该项目由全球包括新建溢流坝、泄洪冲沙闸、电站取水闸、副坝、压力钢管、厂房、输变电线路、机组等，安装3台卧式冷却塔，安装机容220kW，输变电线路约13km。
+
+![](images/216913e91d738812bdf7fe14e587aa31c9fd70610df4581619c477b4c8a6a942.jpg)
+
+# Jiaohua Reservoir Project 植花水库工程
+
+The project mainly includes the reservoir hub project, Daxi River water diversion project, and water supply project. It is a large- scale water conservancy project with comprehensive benefits such as water supply, flood control, irrigation, and downstream ecological environment replenishment.
+
+该项目主要包括水库枢纽工程、大溪河引水工程、供水工程，是一座具有供水、防洪、灌溉、下游生态环境补水等综合效益的大型水利工程。
+
+# MECHANICAL AND ELECTRICAL INSTALLATION
+
+机电安装 | 安享无数脊
+
+![](images/8ecf660a4b4e7feab793b6365e27bb2516539c2ff52ca180839e0c951f2a16ea.jpg)
+
+# Coverage and Consolidation Improvement of Drinking Water Safety PPP Project in Wugang
+
+武汉市饮水安全覆盖暨巩固提升工程项目
+
+The project specifically includes three new water plants, one expanded water plant, three existing water plants, eight pressurized pumps, and a 676.69km water supply pipe network as well as water supply pipe networks required for operation and maintenance during the operation and maintenance period. After completion, the daily water supply capacity of Wugang City's tap water will reach 180,000 t.
+
+![](images/fefce317599541041c02799830e67b2c1d7279c80950e97a63fee425c2a264f7.jpg)
+
+(Australia) ABC Paper Company Production Line Equipment Installation Project (澳大利亚) ABC纸业生产线设备安装项目
+
+# (Mongolia) Erdenet Power Plant Renovation Project
+
+（蒙古国）额尔登特电厂改造项目
+
+It is also a key livelihood project in Mongolia. The main construction content of the project includes the expansion of generator unit functions, circulating water system of cooling tower, heating network system, chemical water treatment system, 110kV overhead power transmission and distribution and weak current control system and related ancillary facilities and other new construction projects. The total construction scale of the project is with a maximum power generation capacity of 50MW.
+
+The design, procurement, civil engineering, installation, commissioning and other aspects of the project have fully realized "Designed in China, Made in China, and Built by China". Relying on Chinese standards and taking into account Mongolia's special circumstances, the project team optimized the design and vigorously promoted China's advanced new technologies and processes.
+
+项目的设计、采购、土建、安装、调试等完全由“中国设计、中国制造、中国建造”，依托中国标准，结合蒙古国特殊情况，对设计进行优化，并大力推广中国先进新技术、新工艺。
+
+![](images/ad2b33b4455f3d80cb6b4c8b3dd9e211553c0a276bc47e1a0f6154d8f6c0dea2.jpg)
+
+（Myanmar）Phase I 5000 t/d Stock Line and the Supporting 2.2 Million t/a Grinding Station, Cogeneration, Coal- Fired Power Plant, Sectional Material Plant Building Constructional Engineering of Conch (Mandalay) Co., Ltd.
+
+（缅甸）海螺（曼德勒）一期5000t/d熟料线及配套220万t/a粉磨站、余热发电、燃煤电站、型材厂房建筑工程
+
+![](images/4e6cb76075370d3e797255a26e61324423cccc2983bd2ff1daf0387801d982ad.jpg)
+
+During the construction of the project, water from the diversion canal of the Irrawaddy River was transferred to the Plant to solve the water shortage problem of the villagers on the same day. The plant is equipped with a power station, and electricity meets the use of the plant and is provided free of charge to the surrounding villagers. After the completion of the plant, a large number of jobs are provided, further promoting the friendship between China and Myanmar.
+
+该项目建设过程中，从依洛瓦底江引水渠水至厂区。解决当天村庄居民用水难问题。场区内自备发电站，除满足厂房自用外将带免费提供用电给周围当地村民生活用电。厂房建成之后，提供大量就业岗位，进一步推动中缅两国的友好情谊。
+
+# Mechanical and Electrical Installation Project of Hainan Jinhai Pulp & Paper Co., Ltd.
+
+海南金海浆纸业有限公司机电安装工程
+
+![](images/8d6ba5c2baa4e256c9782a1598edb6b77014405ea3c4e7ffacd8f3dadc64b094.jpg)
+
+![](images/c434f936d10945f25ed559d52d8ebddab504417d01f96656bff6b8841dbf1a73.jpg)
+
+![](images/c4059fc9268345e4f94d06fa660edf54c4ff9c3d15f46d0870565c8de5304a03.jpg)
+
+Green Energy and Environmentally Friendly Power Generation Project in Dianbai District, Maoming茂名市电白区绿能环保发电项目
+
+Carvest Environmental Protection Group Company Limited's green energy and environmentally friendly power generation project in Dianbai District, Maoming, has a designed daily waste processing capacity of 2,250t/d. The civil construction was completed at one time, and the installation was divided into two phases. The first phase has a daily processing capacity of 1,500t/d of domestic waste per day, and the second phase of the project is 750t/d. This phase is equipped with two 750t/d mechanical grate incinerators and two 25MW condensing steam turbine generator units.
+
+该项目已获广东省建设工程优质结构奖、广东省建设工程金奖奖、广东省建设工程优质奖、文明施工示范工地、湖南省优质工程奖、鲁班奖。
+
+粤丰环保茂名电白区绿能环保发电项目，设计规模日处理垃圾量2250t/d，土建一次建成，安装分二期，其中一期日处理生活垃圾1500t/d，二期工程为750t/d，本期配置2台750t/d机械炉排焚烧炉和2台25MW超汽式汽轮发电机组。
+
+![](images/607e21f4e48878c676dc2e56e6aa1bc19f6cb35267030884f0c62ba7b0b49c04.jpg)
+
+# (Fiji) The China-aided Somosomo Hydropower Station Project (斐济) 索摩索摩水电站项目
+
+The design capacity of the project is 700kw (two 350kw units), and the construction includes retaining weir, right bank water intake for slope protection, drinking water pressure steel pipe, grit chamber, power plant building and 10km of Ilkv transmission lines (including 15 sub- transformers), etc.
+
+该项目设计规模为700kw（两台350kw机组），建设内容包括排水堰、右岸护坡取水口、饮水压力钢管、沉沙池、电站厂房及10km的11kv输电线路（含15台分泵压器）等。
+
+# (Sierra Leone) The China-aided Potrock Hydropower Station Project (塞拉利昂) 坡特洛克水电站项目
+
+The China- aided Potrock Hydropower Station project in Sierra Leone includes new overflow dam, retaining earth dam, spillway, flood discharge and sand drainage tunnel, water delivery system, power plant building, units, etc. The installed capacity of the project is approximately 2,000kw, and the power transmission and transformation lines are approximately 1.6km.
+
+该项目主要包括新建溢流坝、挡水土坝、溢洪道、泄洪排砂洞、输水系统、发电厂房、机组等。装机容量约为2000kw，输变电线路约1.6km。
+
+![](images/b95a5d668d52ec8437cdd9e6a5f25c2aeb40e12a16e12ac06a652e6c0adec2d5.jpg)
+
+![](images/c9c5419fc497cadbed73121b56377674eb7ce4a7013fa44351d637aea71747b2.jpg)
+
+The project was awarded the National "AAA Class Domestic Waste Incineration Power Plant" and "The Most Beautiful Domestic Waste Incineration Plant".
+
+获评国家“AAA级生活垃圾焚烧发电厂”和“最美生活垃圾焚烧电厂”。
+
+# General Contracting of Jiangsu Shagang Group's 135 MW Gas Power Generation Construction
+
+# 江苏沙钢135MW煤气发电施工总承包工程
+
+The project covers an area of 46,200m, and the construction capacity is a 135MW ultra- high pressure, primary intermediate reheat steam turbine generator unit, including a 135MW condensing steam turbine generator unit and a 400t/h fully- fired gas boiler, workshop, circulating cooling water system and other related supporting facilities.
+
+该项目占地面积4.62万m，建设规模为1台135MW超高压、一次中间再热汽轮发电机组，包括135MW煤气式汽轮发电机机组1台。400t/h全燃煤气锅炉1台及厂房，循环冷却水系统等相关配套设施。
+
+# Environmentally Friendly Biomass Waste Power Generation Project in Zhuhai
+
+# 珠海市环保生物质垃圾发电项目
+
+The project is responsible for the harmless treatment of all other garbage in Zhuhai. The current daily processing capacity reaches 3,000t and can generate 1,800,000kWh of electricity per day, which is equivalent to the daily electricity consumption of 259,200 households.
+
+该项目承担着珠海全部其他垃圾的无害化处理工作，日处理垃圾规模达3000t，可每天发电180万度，相当于259200户家庭一天的用电量。
+
+![](images/0e19505dd85ddeeca06ba19a70d24f30476bd7cb3e6d153b5d124155824f145c.jpg)
+
+![](images/22b71c7334518429fc2e096a9c5cb5744371726e72e9f9baf1cbb3a872005461.jpg)
+
+![](images/25b3a0844bf12fbf503f9cf3db7d998b3da11ec8d937ecfe34be08ef8a5da9c7.jpg)
+
+![](images/79e4cd6139ba36afc6fa47687d59627217828f2d7a5f0c40c6564cef6ced7404.jpg)
+
+# 500 MW Agricultural Photovoltaic complementary Photovoltaic Development Project in Luoding, Guangdong
+
+# 319.98 MW Centralized Photovoltaic Power Generation Project in Qiyang
+
+# 部 319.98 MW 集中式光伏发电项目
+
+# Wanhe Wind Farm (49.5 MW) Project in Sui county, Hubei 湖北随县万和风电场 (49.5 MW) 工程
+
+Installation Project of Dongshan Wind Farm in Linwu, Hunan 湖南临武东山风风电场安装工程
+
+广东罗定 500MW 农光互补光伏发电项目
+
+中国单体最大的平价上网农光互补光伏发电项目。
+
+# 部 319.98 MW 集中式光伏发电项目
+
+This project uses local barren mountains and wasteland to develop a model that organically combines photovoltaic power stations with medicinal planting, vegetable planting, and photovoltaic tourism.
+
+项目通过利用当地荒山荒地，开展光伏电站与约材种植、蔬桑种植、光伏旅游有机结合的模式。
+
+The planned total installed capacity of the project is approximately 49.5 MW, with the installation of 33 wind turbine units with a single unit capacity of 15 MW.
+
+该项目规划总装机容量约为 49.5 MW，安装 33 台单机容量为 15 MW 的风力发电机组。
+
+# MUNICIPAL
+
+市政工程 | 民生新力量
+
+It is a key livelihood project cooperated by governments of China and Bangladesh, including the construction of a surface water treatment plant with a daily processing capacity of 200,000t and the pipe network project to solve the drinking water problem of urban residents in Rajshahi.
+
+该项目为中孟两国政府合作的重点民生工程，建设内容包括日处理20万t的地表水处理厂及管网工程，建成后将解决拉杰沙希城市居民的饮水安全问题。
+
+![](images/7370023d59b8246392e1def1b41c0e534499d646c74d8a07475a77148d71d40a.jpg)
+
+(Ghana) Power Grid Projects in the Eastern Region, Volta Region and Northern Region (加纳) 东部省、沃尔特省及北部省电网项目
+
+![](images/78a749e7ce9bf9d8f5557df20795c18effc50ff1b86f391a965fb24ea3e2d5ec.jpg)
+
+This project brought light to 88,000 households across 772 villages in Ghana. It involved the installation of 18,455 high- voltage poles, 31,957 low- voltage poles, and 12,960 service poles, with 4,117 km of high- voltage overhead lines and 7,049 km of low- voltage overhead lines laid. Additionally, 471 transformers were installed and inspected, and 33,010 household electricity meters were put in place. The project holds significant importance in advancing Ghana's national electrification goals. Throughout its implementation, the project actively trained local workers, creating nearly a thousand jobs and indirectly generating thousands more as villages gained access to electricity.
+
+SINO HUMAN INTERNATIONAL ENGINEERING AND DEVELOPMENT CO., LTD. 51 152
+
+![](images/b45d13a4c1dc875c48d3ced1eb91f18a5405bbdc8e8c86521cd539f2e2af43ca.jpg)
+
+# (Tanzania) Water Supply Project in Dar es Salaam (坦桑尼亚) 达累斯萨拉姆市供水项目
+
+The project is composed of 1,255km of pipelines, three 5,000m concrete pools, two pumping stations, and 20,000 household connections. After the completion of the project, it has greatly relieved the water shortage of residents in Dar es Salaam and improved local water sanitation conditions.
+
+该项目由125km管道、三个5000m混凝土水池、两个泵站、2万户入户连接组成，项目建成后极大缓解达市居民用水紧张状况，改善当地用水卫生条件。
+
+# (Oman) Water Pipe Upgrading System Project in Al Sharqiya
+
+(阿曼) 阿尔萨奇亚省输水升级系统项目
+
+The project mainly includes the laying of water main pipelines with a total length of about 31.6km and the construction of pumping stations, etc. After the operation of the project, it will solve the drinking water difficulties of 100,000 families along the line, which is a major strategic livelihood project in Oman.
+
+该项目主要内容包括总长度约311.6km的输水干管敷设与泵站建设等，项目运行后解决沿线10万户家庭饮水问题，是阿曼重大战略民生工程。
+
+# Renovation and Expansion Project of Changsha Huaqiao Sewage Treatment Plant 长沙市花桥污水处理厂改扩建工程
+
+The project adopts the advanced "segmented AAO+high- efficiency sedimentation tank+V- type filter" sewage treatment technology, its design capacity is 200,000m³/d, and the initial daily treatment capacity has reached 200,000m³/d.
+
+工程项目用砂为先进的“分段AAO+高效沉淀池+V型滤池”污水处理工艺，其设计规模为20万m³/d，先期日处理规模达到20万m³/d
+
+![](images/f44846e9148d0c9a545d154134aaa2f0de6bbe80f8e3f07d5678f9b0372b44a3.jpg)
+
+![](images/bbd1be0e9b861856435b5d367a74322e803f3bb8d3c1ac383e0667154961b591.jpg)
+
+Standard Upgrading and Renovation Project (General Contracting of Construction) of Water Purification Plant in Pinghu
+
+平湖水质净化厂提标改造工程（施工总承包）
+
+The Reconstruction and Expansion Project of T3 Terminal of Changsha Huanghua Airport 长沙黄花机场T3航站楼
+
+# Zhangjiajie Hehua International Airport 张家界荷花国际机场
+
+Zhangjiajie Hehua International Airport is a 4D- level trunk airport. Its new terminal has an area of 46,529m² and can meet the annual passenger throughput of 5 million, cargo and mail throughput of 19,000t, and 45,000 aircraft takeoffs and landings.
+
+张家界荷花机场为4D级干线机场，新航站楼面积46529m²，可满足年旅客吞吐量500万人次，货邮吞吐量1.9万t。飞机起降4.5万架次的保障需求。
+
+![](images/36ff6b12a6dde4e7c7f74505287cee717d62b525f0543e28232652403e027fe5.jpg)
+
+![](images/067d3a1b8ce3a8675504bb736af332cb3b25b1dee7a866f91a9b01a0e0f512aa.jpg)
+
+# PORT AND WATERWAY
+
+港口与航道 | 航道新沿岸
+
+（Algeria）Phase II, Betiva Jetty Renovation Project（阿尔及利亚）贝蒂瓦防波堤修复项目二期工程
+
+![](images/a9be9856e311bf8a19827dc5f549190d8fc96027b22d5d349a0f5459867a1311.jpg)
+
+The design of this project focuses on meeting environmental protection standards and efficient impounding current, and a large number of new technologies, new materials, and new processes have been applied, which has greatly consolidated the status of Chenglingji Old Port as a bulk cargo water- rail transport hub in Hunan Province. The main structure of the project is a closed silo for dry bulk cargo, with a length of 470m, a main span of 110m, and a construction area of 50,000 m².
+
+# Changsha Integrated Hub of Xiang River, Hunan
+
+# 湖南湘江长沙综合枢纽
+
+The project won the third prize of the National Outstanding Engineering Consulting Achievements; the first prize of the Hunan Province Excellent Engineering Consulting Achievements; the third prize of the National Outstanding Engineering Consulting Achievements; the first prize of the Hunan Province Excellent Engineering Consulting Achievements; the second prize of the Hunan Province Excellent Engineering Design Award; Bronze Award of Surveying and Mapping Engineering and second prize of Excellent Traffic Engineering in 2020.
+
+获全国优秀工程咨询成果三等奖；湖南省优秀工程咨询成果一等奖；全国优秀工程咨询成果三等奖；湖南省优秀工程咨询成果一等奖；湖南省优秀工程设计二等奖；优秀测绘工程铜奖2020年度优秀交通工程二等奖。
+
+![](images/b5b357ca6aa3eecd8b61c8d1389f409648e20186fffa442635cb400772ed09e6.jpg)
+
+# Hydraulic Engineering of the 100,000-ton Crude Oil Terminal on Changxing Island in Dalian Port
+
+大连港长兴岛10万吨级原油码头水工工程
+
+As a supporting transfer berth for a 300,000- ton crude oil terminal and a 4,750,000- m² bonded tank area, the project adopts a "butterfly" layout, with six mooring piers, two ship- tying piers and one working platform. The supporting facilities includes Harbor basin, power supply and lighting facilities, water supply and drainage, fire protection, etc. Its design annual throughput capacity is 7,940,000t, and its berthing ship types range from 10,0000 to 100,000t.
+
+作为30万级原油码头及475万m³保税罐区的配套中转泊位，项目采用“罐”型布置，设6个系缆箱、2个靠船墩及一个工作平台，配套建设港池、供电照明设施、给排水、消防等设施，设计年通过能力为794万t，靠泊船宽为1万级至10万级。
+
+![](images/2fb7644cdf53101043bdcbff20933564cd11c8da52f80855601031959c39dece.jpg)
+
+# SHICO 04
+
+# Merging All Places Trading Connecting the World
+
+融汇九州|贸通四海
+
+We are committed to providing a comprehensive package of services throughout the entire lifecycle of the industrial chain, starting from the extension, supplementation, strengthening, and construction of international engineering and trade chains, and building the "chain master" of the industrial chain.
+
+International trade business is a key part of HClG's international business strategic layout. Based on the overall idea of "using engineering to drive trade and utilizing trade to promote engineering", we focus on opening up two- way channels for supply chains and industrial chains. We give full play to the bridging and radiating role of international trade business and promote the coordinated development of international engineering and international trade business.
+
+Now HClIT is mainly engaged in the import and export trade of mineral products, agricultural products, building materials, chemicals and other products and international exhibition services, and provides global centralized procurement, logistics and other services of building materials products to HClG.
+
+我们致力以国际工程、国际贸易"链链、价值链、链链、链链"为出发点，提供产业链全生命周期一揽子服务，打造产业链"链主"。
+
+国际贸易业务是集团国际业务战略布局的关键一环，我们围绕"以工带贸、以贸促工"总体思路着力打造供应链、产业链双向通道，充分发挥国际贸易业务的桥梁
+
+纽带和辐射带动作用，推动国际工程与国际贸易业务协同发展。
+
+贸主要从事矿产品、农产品、建材和化工等产品的进出口贸易及国际会展服务，并且为集团提供建材产品的全线集采、物流等服务。
+
+![](images/60ff5074c8286370e64381ad7af7d566974bbf4312ad214796e4beda9ada9ad5.jpg)
+
+# Promote the coordinated development of international engineering and international trade business
+
+推动国际工程与国际贸易业务协同发展
+
+# 工贸联动 | Engineering & Trade Interaction
+
+# 易货贸易 | Barter Trade
+
+We give full play to the advantages of HCG's overseas institutions, joint projects and multiple partners, help governments and owners solve funding problems, drive infrastructure construction, and promote sustainable development of the local economy through industrial investment, construction and international trade. Especially focusing on the mineral product industry chain, we have created a full industry chain service of "exploration - collection - mineral processing - smelting - trade," which will form a replicable and scalable "Engineering & Trade Interaction," model to promote the mutual empowerment and linked development of foreign economy and foreign trade.
+
+When we cooperate with domestic production- oriented, trading- oriented and service- oriented enterprises that export products or services to countries with foreign exchange shortages and restrictions, we carry out barter trade through cooperation. Through cross- border inbound and outbound hedging, funds are now transferred across borders and are only transferred between importers and exporters within their respective territories, which will help solve the problem of capital return and achieve "aggregation of information flow, cross- border product flow, and domestic capital flow."
+
+我们充分发挥全球贸易中心地位，致力于在国际产业中开拓广阔市场。我们与全球贸易组织建立了长期合作关系，从一开始就和企业和政府和业主解决资金问题，带动基础设施，促进当地经济可持续发展。尤其是以矿产品产业链为重点，打造“单一采- 流- 流- 贸”全产业链服务，形成可复制、可推广的“工贸联动”模式，促进外经贸外贸互相赋能、联动发展。
+
+我们一直相信在“一带一路”中，中国和非洲等国与世界一道，将不断造福中国和亚洲。从工业发达国家开始，过去合作开展期货贸易，通过跨境进出口外销，资金不跨境，仅在各自境内的进出口商之间划拨，解决资金回流问题，实现“信息流汇总、产品流跨境、资金流境内”。
+
+![](images/9704d7a5108a5f6571f92b7932c21da0d71454668ea932742a2ea8bb1a143039.jpg)
+
+![](images/b97352a71ca46bedf7342274ec53e798897401b61382e7a5e0458e1ff17f56be.jpg)
+
+# 进出口贸易 | Import and Export trade
+
+We actively respond to the call for the "Nine Projects" of China- Africa cooperation and promote the "Trade Promotion Project". We make full use of policy advantages such as China (Hunan) Pilot Free Trade Zone and Sino- African Economic And Trade Cooperation Pilot Zone to focus on the four major categories of mineral products, agricultural products, building materials products, and chemical products, utilize both international and domestic markets and resources in a mutually beneficial and win- win manner, thus continuously expanding the channels and scales of import and export trade and promote the development of global economy.
+
+我们积极响应中非合作“九项工程”号召，推动“贸易促进工程”。充分借助中国（湖南）自由贸易试验区、中非经贸深度合作先行区等政策优势，聚焦矿产品、农产品、建材产品、化工产品四大品类，以互利共赢的方式充分利用国际国内两个市场，两种资源，不断扩大进出口贸易渠道和规模，促进全球经济发展。
+
+# 全球集采 | Global Centralized Procurement
+
+We give full play to our scale advantages in global trade and overseas projects, and have established a complete centralized procurement supply chain and logistics service system. In addition, we have established cooperation with world- renowned suppliers and logistics service providers to effectively reduce project implementation costs. At present, we have served a total of more than 30 projects in Africa, Southeast Asia, Central Asia, the Middle East, Russia, Mongolia and other places.
+
+我们充分发挥全球贸易和海外工程的规模优势，建立了完善的集采供应链和物流服务体系，与全球知名供应商和物流服务商建立了合作，有效降低项目实施成本。目前已服务非洲、东南亚、中亚、中东、俄罗斯、蒙古等30多个项目。
+
+![](images/8d48db51205064ee3be132fa279c2d81d7bf880dfa79f9bf3ac7bb4b1278ad33.jpg)
+
+# Main Products 主营产品
+
+![](images/9259237d1e9a9d0427d45a4cdac044cbaf145c8eeb53ab7e81abdde9d501e05c.jpg)
+
+![](images/6e3d46e03d1c4e7436180db06d4b2ff7cca3401b0d6655c0dc901d4fac76a0c6.jpg)
+
+Main Products: Coal, Iron, Steel, Coke, Copper, Lead, Zinc, Lithium, Cobalt and other minerals, and they are mainly imported-oriented. Business Distribution: Africa, America, Thailand, Australia, Russia, Indonesia, Peru, Philippines, Mongolia, etc.
+
+主要产品煤、铁、矾、焦炭、铅、铅、锌、锶、钴等矿产等，以进口为主。业务分布：非洲、美洲、泰国、澳大利、俄罗斯、印尼、秘鲁、菲律宾、蒙古国等
+
+![](images/b6b0a012c12a630b9a298d486565846c6cc3c28dd8a10faba482dd66a5401372.jpg)
+
+![](images/83ce712cbe0c7193583112b96393f37acb936297282d5b4494bb628b92689393.jpg)
+
+Main Products: Frozen Products, Aquatic Products, Fruits, and Bulk Grain and Oil, etc. and they are mainly imported-oriented.
+
+Business Distribution: Africa, Southeast Asia, Russia, Pakistan, India, Vietnam, etc.
+
+主要产品冻品、水产、水果、大宗粮油，以进口为主。
+
+业务分布：非洲、东南亚、俄罗斯、巴基斯坦、印度、越南等
+
+![](images/8f8c1baf6e941a83fc66efebcfb24f623f54c9098265df28f3bf7ad0b6ea9f66.jpg)
+
+![](images/d95119e59cc992867936068b0697b168ef3453c26a474ec36e4360498bf4bb7d.jpg)
+
+# Building Materials 建材
+
+Main Products: Aluminum Alloy, Prefabricated Houses, Machinery Equipment, Steel, Power Tools and Lamps and Lanterns, etc., and they are mainly exported. Business Distribution: Mainly focusing on Engineering & Trade Interaction projects.
+
+主要产品铝合金、活动板房、机械设备、钢材、电动工具、灯具类等，以出口为主。
+
+业务分布：主要以工贸联动项目为主
+
+![](images/8a7542ef48eb2843b82846a148548e83c57dbdbf18b344b8917c56c0dd34ab35.jpg)
+
+![](images/d9748e2319504585d26115e192fad24dfee563bcb599b117dbb71db533d200a0.jpg)
+
+# Chemical Industry
+
+Main Products: Trisodium Phosphate, Caustic Soda, Sodium Bicarbonate, Sulfuric Acid, etc., and they are mainly exported. Business Distribution: Mainly focusing at Southeast Asia and South Asia
+
+主要产品：硝酸三钠、片碱、重碱、硫酸等，以出口为主。
+
+业务分布：以东南亚，南亚为主
+
+![](images/7b05dc4fb904fd810f8b9565e581161c8baddcd7b19bec82bfe39fac61eb7c38.jpg)
+
+![](images/a312a72e03a325070cbc2c3651e23c8cd5f245eab6bad8cfe763d09ddfa3576a.jpg)
+
+![](images/42315f8370ddc69c40c6b1664e9c1956b9ba463c5803ecf6351bebbf19e28140.jpg)
+
+We have a professional international logistics operation team. Meanwhile, taking advantage of the HCIGS's overseas institutions and personnel, we can better provide full- process services such as overseas on- site inspections, warehousing supervision, logistics transportation, and customs clearance, which helps to provide customers with worry- free one- stop international logistics comprehensive solutions.
+
+公司拥有专业的国际物流操作团队，借助集团众多海外机构及人员的优势，可提供海外现场考察、仓储监管、物流运输、清关报关等全流程服务，为客户提供省心省力的一站式国际物流综合解决方案。
+
+![](images/7ffcfbe4f48e3a8b482616c4adb762bd49e420c27bd24816e375a6eb0ea46d27.jpg)
+
+# Exhibition
+
+# 合画
+
+Through providing services such as organizing overseas exhibitions, market consulting of international fairs, overseas business inspections, booth construction, online promotion, exhibition training, etc. we serve domestic and foreign trade enterprises with comprehensiveness, trustworthiness and professionalization.
+
+通过组织出国参展、国际博览会市场咨询顾问服务、境外商务考察、展台搭建、线上推广、会展培训等服务，为国内外贸型企业提供全方位、值得信赖的专业化服务。
+
+![](images/ee532f37ecc8b2154df16964892be50a5e8d12e6d8034d9180c9492c0312b54a.jpg)
+
+# Innovation Development Cases
+
+创新发展案例
+
+“Flotation Plant for Ores” Project in Kyrgyzstan 吉尔吉斯斯坦“选厂换矿”项目
+
+This project includes a new flotation plant project with 200ktpa throughput and a reconstruction project with 500ktpa throughput invested in Kyrgyzstan by a customer with long- term cooperation in the Industry chain. The total investment amount reached 500 million yuan, with a project duration about 1 year, and the project cost was about 200 million yuan. The initial construction fees are paid through “Mineral Repayment”, which not only reduces the risk of project repayment, but also provides the company with a stable source of primary supply.
+
+该项目为产业链长期合作客户在吉尔吉斯斯坦投资的一个年处理矿石20万t的新建浮选工厂项目和一个年处理矿石50万t的浮选工厂改建工程项目，总投资额达5亿元。项目工期约1年，工程造价约2亿元。通过“偿还矿石”方式支付前期建设费用，既降低了工程回款风险，也为公司获得了稳定的一手货源。
+
+![](images/f3f1140c3e529ce3cad407cd02d5eb9085452f97496491dc762e250d9aeb1996.jpg)
+
+# Processing Plant for Copper Ingots” Project in Thailand 泰国“加工厂换铜锭”项目
+
+By exploring the overseas investment and construction needs of customers in the international bulk mineral products trade sector, we successfully docked the secondary metal recycling and processing plant project in Thailand. This project is located in Phanom Sarakham, Chachoengsao, Thailand, and it's Thailand's first 10,000- ton recycled copper production project. The settlement of project was paid through "Recycled Copper Ingots" produced in the plant, marking the successful expansion of the first construction project in Thailand.
+
+该项目通过挖掘国际贸易大宗矿产品板块客户海外投资建设的需求，成功对接客户在泰国再生金属回收加工厂建设项目。该项目位于泰国北柳府帕依沙拉塔县，是泰国首家万吨级再生铜生产厂。项目通过工厂生产的“再生铜锭”支付工程款，成功在泰国拓展出第一个建设项目。
+
+# “Road for Coal” Project in Mongolia
+
+# 蒙古国“道路换煤炭”项目
+
+This project will open up the trade channel between coal mines in Mongolia and ports in China via government planning road construction. The road has a full length of about 100km and is constructed based on road standards for special heavy trucks. The total investment amount of this project is 450 million yuan. Sales proceeds after coal mining transactions will first be used to pay for infrastructure projects, thereby reducing the risk of project repayments. The signing of this project is an innovative practice of SHICO's engineering and trade interaction development model.
+
+该项目是通过政府规划道路建设打通蒙古煤矿与中国口岸的贸易通道。按照特殊重型卡车道路标准建设，道路全长约100km，项目总投资4.5亿元。煤炭开采交易后的销售回款将首先用来支付基础设施项目工程款，从而降低工程回款的风险。该项目的签约是公司国际工程和贸易联动发展模式创新的实践。
+
+![](images/8f98b28b5abbf54d0a3b4189a3e3c5ff2d7ba3c42de9b4122dbedb748f98c902.jpg)
+
+![](images/71bd67f71599b1bbc02ac85eef8037a0bff44c40621acae916f11ac900e40628.jpg)
+
+# SHICO 05
+
+# CONTRIBUTE
+
+Social Responsibility  社会责任
+
+Excellent Product  Leading Innovation
+
+After working abroad for decades, we have never forgotten the social responsibilities of state- owned enterprises, actively carried out foreign aid, enhanced mutual understanding, deepened friendship, and built a solid foundation for cooperation. By forming a development environment with diverse interactions and people- to- people connections, we make positive contributions to building a community with a shared future for mankind.
+
+境外耕耘数十年，始终不忘国有企业的社会责任，积极开展对外援助，增进相互理解，厚植友好情谊，筑牢合作根基，形成多元互动、民心相通的发展环境，为构建人类命运共同体作出积极贡献。
+
+产品卓越 创新领先
+
+![](images/11cdc6d6512741600b3c881a7106ff40be77d5bce2111079b43ac3ad5ed5a4f3.jpg)
+
+# We have created "national landmarks", "people's livelihood projects" and "monuments of cooperation" one after another.
+
+打造了一个个"国家地标""民生工程""合作丰碑
+
+The China- aided Competitive Wrestling Stadium Project in Senegal was handed over by President Xi Jinping to Macky Sall, Senegalese President, as the "golden key" of the project, marking the smooth transfer of this popular project that embodies the friendship between China and Senegal. The China- aided Competitive Wrestling Stadium Project in Senegal provided more than 3,000 local jobs during its implementation and trained more than 1,000 local skilled workers such as electricians, welders, and carpenters.
+
+援塞内加尔国家竞技摔跤场项目由国家主席习近平向塞内加尔总统萨勒移交了象征项目的"金钥匙",标志着这一承载中塞情谊的民心工程顺利移交;援塞内加尔竞技摔跤场项目实施期间为当地提供了3000余个就业岗位;培养了当地电工、电焊工、木工等逾1000名技术工人。
+
+![](images/703a3ba69022444bea6a7fd7b91456e072d7076f16e1bafa0d787c4985b270f9.jpg)
+
+![](images/0cd5e52bf7dbd0955a08425d1f1aa3b38db0b6feb77bd500b91c81d771c49e4a.jpg)
+
+In 2017, Super Hurricane Maria made landfall in Dominica, the Caribbean island country, causing devastating disasters. Projects undertaken by our foreign- aided companies in Dominica, including HNCEG's Margaret Hospital project in Dominica, have been damaged to varying degrees, and the lives and safety of on- site personnel in the aid projects are facing difficulties and threats. The Ministry of Commerce of the People's Republic of China and the Ministry of Foreign Affairs of the People's Republic of China made emergency arrangements for this, immediately looked for channels from various parties, and actively organized the emergency transfer of on- site personnel working on the aided project back to China. After the completion of the maintenance and expansion project of China- aided Margaret Hospital project in Dominica, it became the most advanced medical center in the Caribbean, which greatly improved the backward medical environment in Dominica.
+
+2017年,超级飓风"玛丽亚"登陆加勒比岛温多米尼克,给当地造成破坏性灾难,包括援多米尼克玛格丽特医院项目在内的援外企业在多米尼克承建项目均不同程度遭受受损。援外项目现场人员生命安全面临困难和威胁。国家商务部和外交部对此做出紧急部署,立即多方寻找渠道,积极组织在多援外项目现场人员紧急转移回国。援多米尼克玛格丽特公主医院维修扩建项目建成后成为加勒比地区最先进的医疗中心,极大改善了多米尼克医疗环境落后问题。
+
+# We have created "national landmarks", "people's livelihood projects" and "monuments of cooperation" one after another
+
+打造了一个个“国家地标”“民生工程”“合作丰碑”
+
+![](images/04be78b8ef6d7855b7613678a111b080371eb1ce4349f1e28c91ff0868f326c0.jpg)
+
+The E60 highway construction project in Georgia has greatly alleviated the traffic pressure on the existing section of E60, greatly shortened the passenger and freight time in the capital Tbilisi, Batumi and Pot, and is of great significance to promoting the economic and social development of Georgia and the Eurasian region. The Erdenet Power Plant Renovation Project in Mongolia will directly double its power generation capacity. While generating considerable economic benefits, it also effectively solves the current needs of industrial development and residents' lives in Erdenet and its surrounding areas. It also promotes urban energy conservation and environmental improvement, which is of great significance to promoting the development of Mongolia's energy construction.
+
+格鲁吉亚E60高速公路建设项目极大地缓解E60现有路段的交通压力,大大缩短首都斯比利斯和巴顿,波季帕客货运时间,对促进格鲁吉亚及亚欧区域经济和社会发展具有重要意义;蒙古额尔登特电厂改造项目使发电量直接翻倍,在产生可观经济效益的同时,有效解决了当前额尔登特市及其周边区域工业发展、居民生活的需求,同时促进了城市节能和环境改善,对推动蒙古国能源建设发展具有重大意义。
+
+Power Grid Projects in the Eastern Region, Volta Region, and Northern Region of Ghana have brought nearly thousands of local jobs. At the same time, this has given local people better survival and work skills. The electrification of villages has indirectly created thousands of jobs and promoted the rapid development of the local economy.
+
+加纳东部省、沃尔特省及北部省电网项目为当地带来了近以千计的工作岗位,同时赋予了当地百姓更好的生存工作技能,村庄的通电间接创造了成千上万的工作岗位,带动当地经济高速发展。
+
+The opening of National No. 1 Highway of the Republic of Congo, the economic artery, has greatly improved its land transportation level. After the construction of the new road, the daily traffic volume increased by 40 times, becoming the road to development for the people of the Republic of Congo. Oman's AlSharqiya Water Delivery System Upgrade Project is a political project involving Oman's future development plan. It has greatly alleviated the problem of insufficient domestic water supply for Oman citizens and has become a livelihood project that benefits tens of millions of households.
+
+刚果(布)国家1号公路经济大动脉的打通,极大提升了其陆路运输水平,新路修通后每天通行车辆提升40倍,成为简果(布)人民的发展之路;阿曼阿尔萨奇亚输水系统升级改造项目,是涉及阿曼未来发展规划的政治工程,极大缓解阿曼国民生活用水供应不足问题,成为惠及千万家庭用水的民生工程。
+
+![](images/8476e3baa0c45c38c74645d7d87d801ad4e74d546f80859e28ae347b18e87c76.jpg)
+
+# Demonstrate great love by proactively participating in "urgent, difficult and dangerous" challenges
+
+在积极主动投身“急难险重”挑战中彰显大爱情怀
+
+After the Ebola epidemic broke out in Sierra Leone, we proactively dispatched technical teams to two projects including the China- aided Charlotte and Makari Hydropower Station Project in Sierra Leone and the China- aided Potrock Hydropower Station Project in Sierra Leone to assist in the delivery of aid supplies and the reconstruction of China- Sierra Leone Friendship Hospital.
+
+塞拉利昂埃博拉疫情爆发后，主动派遣援塞拉利昂夏洛特、马卡里水电站项目和援塞被特洛科水电站两个项目技术组参与协助援助物资运送和中塞友好医院改建工作。
+
+![](images/c132bea8c3291a1827f8518eaf424186c29216d550255f60d95980c92865de36.jpg)
+
+![](images/28cf7d3c25a37e09204b166cb56c077969c7b4c76cb399f54c50ff99df842ab4.jpg)
+
+C11 Project Department in Sri Lanka invested 2 million rupees (approximately 100,000 yuan) to build 20 bus shelters along the project line, which has been well received by the local government and residents.
+
+斯里兰卡C11项目部出资200万卢比（约合10万元人民币）在项目沿线修建了20个候车亭，得到了当地政府和居民的好评。
+
+![](images/d0b7df3f078f46a492a75e88c57ed267d665a28ad5872a136d294f8a3ef9709c.jpg)
+
+In May 2016, a severe mudslide occurred in Aranayake. Many families were destroyed in the mudslide. As an epitome of the traditional friendship between China and Sri Lanka, Ruwardeniya not only highlights the good construction technology and excellent construction quality of Chinese- funded enterprises in Sri Lanka, but also fully reflects that under the leadership and support of the Embassy of the People's Republic of China in the Democratic Socialist Republic of Sri Lanka and its Economic and Commercial Office, Chinese- funded enterprises in Sri Lanka actively participate in promoting social development in Sri Lanka, promoting social harmony and fulfilling social responsibilities. Meanwhile, SHICO has established a good corporate image.
+
+2016年5月，阿拉伯苏亚龙生产量波石沉，许多家庭在死石沉中毁于一旦，中断友谊村作为中新友好传统友谊的一个缩影，不仅凸显了在新中流企业良好的施工技术和优秀的施工质量，也充分体现了中韩两国在文化领域和经济领域对中韩两国在文化领域的交流和互鉴以及在文化发展、促进社会和谐和践行社会责任的崇高品质，树立了良好的企业形象。
+
+During the infrastructure construction of The Temple of the Sacred Tooth Relic in Kandy, Sri Lanka, SHICO also introduced many local enterprises to participate in the construction of individual projects including roofing, sanitaryware, ceramic tiles, and electrical supporting facilities. A total of more than 200 local technicians and workers have also participated in the project construction, which has promoted the employment of local people to a certain extent.
+
+斯里兰卡康迪城区佛牙奇基础设施项目施工期间，引入当地企业参与了包括屋顶、瓷砖及电力配套等单项工程建设，陆续共计超过200名当地技术人员和工人参与项目建设，在改善康迪的能源基础设施的同时推动了当地就业。
+
+![](images/577b42ed9c81af5812061c9cb80bf469fce94754da0c86bbc95e3d37747c2813.jpg)
+
+# SOCIAL RESPONSIBILITY
+
+Sincerity & Integrity Culture 诚正文化
+
+# Brand Concept  Win brand reputation with high quality
+
+品牌理念|以品质丰碑赢品牌口碑
+
+# Corporate Mission
+
+Create social happiness with sincerity and create happy enterprises with integrity
+
+企业使命|诚意创造社会幸福 正心创造幸福企业
+
+The cultural connotation of "Sincerity & Integrity"
+
+诚·正文化内涵
+
+Sincerity creates social happiness, integrity creates a happy enterprise. Fine workmanship creates
+
+诚·正
+
+Sincerity & Integrity
+
+Build a better world and share a better life with sincerity and high- quality works. 用诚意正心，精品力作建设美好世界，共享美好生活。
+
+# Sincerity creates social happiness
+
+诚意创造社会幸福
+
+We should faithfully fulfill the "Three Responsibilities" of state- owned enterprises and the responsibility of maintaining and increasing the value of state- owned assets, and faithfully provide high- quality construction products to the society.
+
+忠诚履行国企“三个责任”和国有资产保值增值责任，忠诚为社会供给
+
+# Create a happy enterprise with integrity 正心创值幸福企业
+
+正心 We adhere to the right path of development of state- owned enterprises with Chinese characteristics, adhere to integrity and innovative development, adhere to people- oriented, and build a first- class enterprise with strong strength, outstanding brand and happy employees.
+
+坚持走中国特色国有企业发展正道，坚持守正创新发展，坚持以人为本，打造实力
+
+雄厚、品牌卓著、员工幸福的一流企业。
+
+# 品牌卓著 湖南建投
+
+Outstanding Brand HCIG
+
+Focuses on building an "outstanding brand" enterprise, improving project construction, and establishing the "HCIG" brand; striving to upgrade the brand to demonstrate the excellent quality of "HCIG". Carry out the systematic construction of the "HCIG" brand and form a professional and regional characteristic brand system. Clarify the strategic positioning of the brand, strengthen the brand operation management and control of the group and subsidiaries, make every effort to enhance the social recognition of the brand, continuously improve the brand value, and strive to become a well- known brand both at home and abroad.
+
+围绕打造“品牌卓著”企业，资质工程建设，打响“湖南建投”品牌；有诚信的品牌开拓，彰显“湖南建投”卓越品质。进行“湖南建投”品牌体系化建设，形成专业化、区域化的特色品牌体系。明确品牌战略定位，加强集团和子公司的品牌运作管理与管控，全力提升品牌的社会认可度，不断提高品牌价值；努力成为国内外知名品牌。
+
+# Quality Concept
+
+# Keep improving and create quality products
+
+质量理念|精益求精 铸就精品
+
+We will fully implement the quality development strategy of "market- oriented, quality- based development, creating all- quality projects, and casting high- quality construction products". With the quality policy of "quality- oriented, scientific management, continuous improvement, and customer satisfaction", we will fully promote the new quality management model of "creating all- excellent projects", work intensively and strive for excellence, and create high- quality masterpieces covering engineering and all service fields.
+
+全力实施"以市场为导向，以质量求发展，创建全优工程，铸造建筑精品"质量发展战略。以“质量为本，科学管理、持续改进、客户满意"的质量方针，全力推进“创建全优工程”质量新型管理模式，精耕细作、精益求精，打造涵盖工程和一切服务领域的精品力作。
+
+![](images/9f8c03b0702c0b49fc774dbef7762b8ea3beae1bb362e880829ef03d1340358c.jpg)  
+SINO HUMAN INTERNATIONAL ENGINEERING AND DEVELOPMENT CO., LTD. 77 78
+
+# Entrepreneurial Spirit Excellence/Innovation/Sincerity/Dedication
+
+企业精神一流/创新/诚正/奉献
+
+![](images/4e560da803e872e1678fde0a306e5575281ee57ec01890561d5b3d6aa76b242c.jpg)
+
+![](images/d9e741ecdcba112cd7fa56862edcd736be8fbdd6d4ee774067ce50a660067a3d.jpg)
+
+![](images/0bf78969263c6887a65767010349242cf146f22c0b556a11478b94a54d4a177c.jpg)
+
+We have first- class reputation, first- class management, first- class performance and first- class products to build a core enterprise in the industrial chain, enhance the ability of investment, construction and operation integration and international operation, and strive to develop into "a world- class construction investment enterprise".
+
+一流的信誉赢得市场，一流的管理铸造品牌，一流的业绩展示实力，一流的产品回报社会，打造链主企业，增强投建一体化能力和国际化经营能力，奋力朝着“世界一流建设投资企业”躬身前行。
+
+![](images/f761f3a4408649f17eb07d2223b7e34f848a8364657f14929a16a32e4cf5e796.jpg)
+
+We create social happiness with loyalty, fulfill the responsibility of a state- owned enterprise, and devote ourselves to the beauty of construction, creation and development for the people. We create a happy enterprise with integrity, adhere to the right path to the development of state- owned enterprises with Chinese characteristics and the people- oriented philosophy, and make
+
+every effort to build a first- class enterprise with strength, excellent brands and happy employees.
+
+诚意创造社会幸福，践行国企担当，体现国企作为，忠诚为人民践行建设之美、创造之美、发展之美；正心创造幸福企业，坚持走中国特色国有企业发展正道，坚持以人为本，打造实力雄厚、品牌卓著、员工幸福的一流企业。
+
+# INNOVATION 创新
+
+深入贯彻新发展理念，紧盯“双碳目标”“绿色发展”“数字建造”等行业大势，不断深化改革，持续推动管理创新、体制创新、科技创新，努力实现高质量发展。
+
+# 奉献
+
+顺位人民群众对美好生活的向往，牢记国企定位，担好经济责任、政治责任和社会责任，发扬“大国工匠”精神，擦亮“建设海军”品牌，忠诚履行国有资产保值增值责任，高标准、高质量、高效率打造精品力作，为社会供给优质产品和服务。
+
+We deeply implement the new development concept, focus on the "double carbon goal", "green development", "digital construction" and other industry trends, continue to deepen reform and promote innovation in management, systems and
+
+technology, and try to achieve high- quality development.
+
+We comply with people's yearning for a better life, bear the positioning of a state- owned enterprise in mind, take economic, political and social responsibilities, carry forward the craftsman's spirit, establish the brand of Hunan construction industry, increase the value of state- owned assets, efficiently complete high- standard works and provide high- quality products and services.
+
+SHICO strives to become a world- class, respected comprehensive modern construction investment service provider with happy employees.
+
+成为世界一流、受人尊敬、员工幸福的现代化建设投资综合服务商
+
+# CONTACT INFORMATION OF SHICO REGIONAL AGENCIES
+
+# SHICO区域机构联系方式
+
+# 新西兰
+
+# 马来西亚
+
+# 香港
+
+Human Construction Engineering Group Hong Kong Co., Limited Hong Kong
+
+业务联系人
+
+业务联系人
+
+吴明wuming@hciqglobal.cn
+
+# Hong Kong
+
+# Hong Kong
+
+# Hong Kong
+
+Human Construction Engineering Group Hong Kong Co., Limited
+
+Hong Kong
+
+# Hong Kong
+
+# Business Contact
+
+Wu Mingwuming@hciqglobal.cn
+
+# 孟加拉
+
+孟加拉Human Construction Engineering Group Co., Ltd. Bangladesh Branch Office
+
+Dhaka+8801826388245/+8615111279480
+
+戴道旭
+
+371976159@qq.com
+
+Human Construction Engineering Group (NZ) Limited Auckland +64 0277886617 业务联系人 谭开勇
+
+# New Zealand
+
+Human Construction Engineering Group (NZ) Limited Auckland +64 0277886617
+
+# Business Contact
+
+# Kaiyong Qu (Ben)
+
+Business Contact
+
+# Kaiyong Qu (Ben)
+
+# quaiyong@hunan-nz.com
+
+# 东非
+
+# 东非
+
+# Sino-Hunan Overseas ConstructionInvestment East Africa Ltd
+
+# Nainobi, Kenya
+
+# Nainobi, Kenya
+
+# +254 752316336
+
+# 业务联系人
+
+# 业务联系人
+
+# 业务联系人
+
+# Xtzss@hciqglobal.cn
+
+# East Africa
+
+# Sino-Hunan Overseas ConstructionInvestment East Africa Ltd
+
+# Nainobi, Kenya
+
+# +254 752316336
+
+# Business Contact
+
+# Business Contact
+
+# Daniel Xu
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+Dhaka+8801826388245/+8615111279480
+
+戴道旭
+
+# 371976159@qq.com
+
+# Bangladesh
+
+Bengladesh+8801826388245/+8615111279480
+
+# 业务联系人
+
+# Xtzss@hciqglobal.cn
+
+# Hong Kong
+
+Hong Kong+8801826388245/+8615111279480
+
+# Xtzss@hciqglobal.cn
+
+# +8801826388245/+8615111279480
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# 371976159@qq.com
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# 新里兰卡
+
+Hunan Construction Engineering Group Co., Ltd. Sri Lanka Branch OfficeColombo+94 778381966业务联系人简明429526952@qq.com香港Hunan Construction Engineering Group Hong Kong Co., LimitedHong Kong
+
+# Sri Lanka
+
+# Thailand
+
+# Sino-Hunan International Engineering and Development Co.,Ltd.
+
+Sino-Hunan Construction Engineering Group Co., Ltd. Sri Lanka Branch OfficeColombo+94 778381966
+
+# Business Contact+8801826388245@qq.com
+
+# Jeff Zeng+88018263893@qq.com
+
+# 371976159@qq.com
+
+# 沙特阿拉伯
+
+# 老挝
+
+# 老挝+88018263893@qq.com
+
+# 沙特阿拉伯
+
+# 沙特阿拉伯
+
+# Sino-Hunan International Engineering and Development Co., Ltd.
+
+Sino-Hunan International Engineering and Development Co., Ltd. Saudi Arabia Branch Office
+
+Riyadh, Saudi Arabia+8801826388245/+8615111279480
+
+# +971 553901125
+
+# 业务联系人
+
+# Saudi Arabia
+
+# Lao PDR
+
+# Sino-Hunan International Engineering and Development Co., Ltd.
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Sino-Hunan International Engineering and Development Co., Ltd.
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# 泰国
+
+# 泰国
+
+# Sino-Hunan Overseas Engineering and Development Co.,Ltd.
+
+# Sino-Hunan Overseas Engineering and Development Co.,Ltd. ABU DHABI
+
+# Thailand Branch Office
+
+# Bangkok
+
+# Bangkok
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Thailand
+
+# Thailand
+
+# The United Arab Emirates (UAE)
+
+# Sino-Hunan Overseas Engineering and Development Co.,Ltd.
+
+# Sino-Hunan Overseas Engineering and Development Co.,Ltd. ABU DHABI
+
+# Thailand Branch Office+88018263893@qq.com
+
+# Bangkok+971 553901125
+
+# Business Contact+88018263893@qq.com
+
+# Business Contact+88018263893@qq.com
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# 老挝
+
+# 老挝
+
+# Sino-Hunan International Engineering and Development Co., Ltd.
+
+Representative Office in Lao PDR+885 2052973200
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Lao PDR
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn
+
+# Xtzss@hciqglobal.cn

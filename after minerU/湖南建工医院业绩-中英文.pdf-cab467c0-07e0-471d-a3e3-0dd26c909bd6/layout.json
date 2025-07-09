@@ -1,0 +1,4675 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        73,
+                        494,
+                        257
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                73,
+                                494,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        73,
+                                        494,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "HUNAN 湖南建工集团有限公司 HUNAN CONSTRUCTION ENGINEERING GROUP CO.,LTD CONSTRUCTION ENGINEERING GROUP"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        160,
+                        238,
+                        775,
+                        415
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                160,
+                                238,
+                                775,
+                                415
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        238,
+                                        775,
+                                        415
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                238,
+                                                775,
+                                                415
+                                            ],
+                                            "type": "image",
+                                            "image_path": "38eaf15de0e618a912ed9add85fcdd3957a93a2ca90e8df32e3ee2ed837bd3d9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        565,
+                        432,
+                        933,
+                        458
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                565,
+                                432,
+                                933,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        565,
+                                        432,
+                                        933,
+                                        458
+                                    ],
+                                    "type": "text",
+                                    "content": "CONSTRUCTION INVESTMENT"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        776,
+                        470,
+                        933,
+                        497
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                776,
+                                470,
+                                933,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        776,
+                                        470,
+                                        933,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "ENTERPRISE”"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        88,
+                        516,
+                        119,
+                        531
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                516,
+                                119,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        516,
+                                        119,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "一流"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        330,
+                        516,
+                        360,
+                        531
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                330,
+                                516,
+                                360,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        330,
+                                        516,
+                                        360,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "创新"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        585,
+                        516,
+                        615,
+                        531
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                585,
+                                516,
+                                615,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        585,
+                                        516,
+                                        615,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "诚正"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        889,
+                        516,
+                        915,
+                        531
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                889,
+                                516,
+                                915,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        889,
+                                        516,
+                                        915,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "奉献"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        73,
+                        125,
+                        175,
+                        179
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                125,
+                                175,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        125,
+                                        175,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "目录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        64,
+                        248,
+                        413,
+                        355
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                248,
+                                413,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        248,
+                                        413,
+                                        355
+                                    ],
+                                    "type": "text",
+                                    "content": "TABLE OF CONTENTS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        485,
+                        74,
+                        592,
+                        119
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                485,
+                                74,
+                                592,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        485,
+                                        74,
+                                        592,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "01 公司简介ABOUT US"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        479,
+                        158,
+                        819,
+                        204
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                479,
+                                158,
+                                819,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        479,
+                                        158,
+                                        819,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "02 医院工程业绩PERFORMANCE IN HOSPITAL PROJECT"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        483,
+                        238,
+                        595,
+                        283
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                483,
+                                238,
+                                595,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        483,
+                                        238,
+                                        595,
+                                        283
+                                    ],
+                                    "type": "text",
+                                    "content": "03 联系我们FIND US"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        324,
+                        195,
+                        636,
+                        320
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                324,
+                                195,
+                                636,
+                                320
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        195,
+                                        636,
+                                        320
+                                    ],
+                                    "type": "text",
+                                    "content": "01 公司简介ABOUT US"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        112,
+                        422,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                112,
+                                422,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        112,
+                                        422,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                112,
+                                                422,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "31fa41f90322e26099a7a1c7b7a4a6b23e4bf7ded79d35ae9c0ffb438dddc542.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        363,
+                        420,
+                        396
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                363,
+                                420,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        363,
+                                        420,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "湖南建工集团有限公司HNCEG"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        26,
+                        420,
+                        345,
+                        448
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                420,
+                                345,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        420,
+                                        345,
+                                        448
+                                    ],
+                                    "type": "text",
+                                    "content": "成立于1952，大型千亿级国有企业集团。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        24,
+                        469,
+                        405,
+                        500
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                469,
+                                405,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        469,
+                                        405,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "Founded in 1952, Large state- owned enterprise"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        573,
+                        69,
+                        887,
+                        138
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                573,
+                                69,
+                                887,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        573,
+                                        69,
+                                        887,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "200 亿元 20 billion  集团注册资本金 Registered Capital"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        570,
+                        226,
+                        938,
+                        308
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                570,
+                                226,
+                                938,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        570,
+                                        226,
+                                        938,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "2000 200 billion RMB  亿元以上  Annual Construction  年生产（施工）能力  Capacity"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        570,
+                        398,
+                        952,
+                        466
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                570,
+                                398,
+                                952,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        570,
+                                        398,
+                                        952,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "30 多个国家、地区 30 Countries and Areas  海外市场  Oversea Business"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        42,
+                        50,
+                        306,
+                        243
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                42,
+                                50,
+                                306,
+                                243
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        50,
+                                        306,
+                                        243
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                50,
+                                                306,
+                                                243
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0937301473a13161809a9348010045604492243570765005ffccfbc76311e0e6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        131,
+                        254,
+                        216,
+                        277
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                254,
+                                216,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        254,
+                                        216,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "营业执照BUSSINESS LICENSE"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        64,
+                        282,
+                        323,
+                        469
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                64,
+                                282,
+                                323,
+                                469
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        282,
+                                        323,
+                                        469
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                282,
+                                                323,
+                                                469
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4e7bb967e7cf2d609d8faef8be27bf709423d79204c482e09aab4743f7362113.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                475,
+                                303,
+                                498
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        475,
+                                        303,
+                                        498
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                475,
+                                                303,
+                                                498
+                                            ],
+                                            "type": "text",
+                                            "content": "公司建筑施工资质QUALIFICATION CERTIFICATE FOR CONSTRUCTION ENTERPRISE"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        348,
+                        177,
+                        954,
+                        435
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                348,
+                                177,
+                                954,
+                                435
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        177,
+                                        954,
+                                        435
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                348,
+                                                177,
+                                                954,
+                                                435
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1e3d5ed71c3f3a7e11d25fd55559e50e7e6ec0685951a96f354aed2accbe95db.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        352,
+                        463,
+                        557,
+                        489
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                352,
+                                463,
+                                557,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        352,
+                                        463,
+                                        557,
+                                        489
+                                    ],
+                                    "type": "text",
+                                    "content": "质量管理体系认证证书QUALITY MANAGEMENT SYSTEM CERTIFICATION"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        575,
+                        463,
+                        954,
+                        501
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                575,
+                                463,
+                                954,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        575,
+                                        463,
+                                        954,
+                                        501
+                                    ],
+                                    "type": "text",
+                                    "content": "职业健康安全管理体系认证证书环境管理体系认证证书OCCUPATION HEALTH AND SAFETY ENVIRONMENTAL MANAGEMENT SYSTEM CERTIFICATIONMANAGEMENT CERTIFICATION"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        95,
+                        88,
+                        182,
+                        248
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                95,
+                                88,
+                                182,
+                                248
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        88,
+                                        182,
+                                        248
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                95,
+                                                88,
+                                                182,
+                                                248
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8252084a1a2ca1947b45f32fb2701f222d1bb9232f74013f784db7f2e0f08565.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                253,
+                                186,
+                                270
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        253,
+                                        186,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                253,
+                                                186,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "全球最大250家国际承包商Top250 Global Contractors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        265,
+                        128,
+                        325,
+                        245
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                265,
+                                128,
+                                325,
+                                245
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        128,
+                                        325,
+                                        245
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                265,
+                                                128,
+                                                325,
+                                                245
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0208a64cef073f4c402f85cff4b68fe25ec0a051acd7b91a5c557154169088e2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                276,
+                                252,
+                                316,
+                                270
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        276,
+                                        252,
+                                        316,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                276,
+                                                252,
+                                                316,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "鲁班奖Luban Award"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                396,
+                                267,
+                                540,
+                                276
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        396,
+                                        267,
+                                        540,
+                                        276
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                396,
+                                                267,
+                                                540,
+                                                276
+                                            ],
+                                            "type": "text",
+                                            "content": "National Construction AAA Credit Enterprise"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        412,
+                        164,
+                        527,
+                        239
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                412,
+                                164,
+                                527,
+                                239
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        412,
+                                        164,
+                                        527,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                412,
+                                                164,
+                                                527,
+                                                239
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c006ad6ef8aad9e9dbb79006bbfecd2ed1a84b63297b15544d61b1964796d737.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                412,
+                                253,
+                                511,
+                                264
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        412,
+                                        253,
+                                        511,
+                                        264
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                412,
+                                                253,
+                                                511,
+                                                264
+                                            ],
+                                            "type": "text",
+                                            "content": "全国建筑业AAA级信用企业"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        589,
+                        158,
+                        834,
+                        278
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                589,
+                                158,
+                                834,
+                                278
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        589,
+                                        158,
+                                        834,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                589,
+                                                158,
+                                                834,
+                                                278
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ae78a0c3cea5bd2136236f07f39f48f270f906f49cd4b1532444e6434551523d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        92,
+                        330,
+                        867,
+                        369
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                330,
+                                867,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        330,
+                                        867,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "湖南建工在国际业务上取得了骄人的成绩，连续入选ENR国际承包商250强，并先后获得中国建筑工程鲁班奖、中国钢结构金奖、中国援建成套优秀工程、中国国际工程BIM竞赛一等奖、蒙古立功贡献荣誉勋章、塞内加尔国家狮子骑士勋章、以及多米尼加国家杰出贡献奖章。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        92,
+                        374,
+                        869,
+                        458
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                374,
+                                869,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        374,
+                                        869,
+                                        458
+                                    ],
+                                    "type": "text",
+                                    "content": "HCEG has achieved remarkable results in international business, which has been consecutively enlisted in ENR's Top 250 International Contractors and has successively won the China Construction Engineering Luban Award, the China Steel Structure Gold Award, the Excellent project of China- aided Complete set, the First Prize in China International Engineering BIM Competition, the Order of Honor for Meritorious Contribution to Mongolia, the Knight of the National Lion Order of Senegal, and the Medal of National Outstanding Contribution of Dominica."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        3,
+                        45,
+                        39
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                3,
+                                45,
+                                39
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        3,
+                                        45,
+                                        39
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                3,
+                                                45,
+                                                39
+                                            ],
+                                            "type": "image",
+                                            "image_path": "88085e242f400247a30061d96d4b8fdf2c528a3a36b0aff992cfb5e2f715bd55.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        93,
+                        189,
+                        211
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                93,
+                                189,
+                                211
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        93,
+                                        189,
+                                        211
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                93,
+                                                189,
+                                                211
+                                            ],
+                                            "type": "image",
+                                            "image_path": "726d2ca8984728e9d28bd70d7e2c6320acdfb5f1c8ad921ac08b2fa9e6b228a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        85,
+                        227,
+                        178,
+                        262
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                227,
+                                178,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        227,
+                                        178,
+                                        262
+                                    ],
+                                    "type": "text",
+                                    "content": "房建工程 House Building"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        93,
+                        421,
+                        211
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                307,
+                                93,
+                                421,
+                                211
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        93,
+                                        421,
+                                        211
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                93,
+                                                421,
+                                                211
+                                            ],
+                                            "type": "image",
+                                            "image_path": "64ba84df1f25cd51bc6c4ee308d90f9f92384f72fb733cf3761015a8780565ed.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        336,
+                        227,
+                        396,
+                        261
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                227,
+                                396,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        227,
+                                        396,
+                                        261
+                                    ],
+                                    "type": "text",
+                                    "content": "道路工程 Road"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        542,
+                        93,
+                        653,
+                        211
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                542,
+                                93,
+                                653,
+                                211
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        542,
+                                        93,
+                                        653,
+                                        211
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                542,
+                                                93,
+                                                653,
+                                                211
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ccbd435cbc783b00f98ff3fc7785991782b3e83dd6c7b480ff7583144d76645d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        569,
+                        227,
+                        627,
+                        261
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                569,
+                                227,
+                                627,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        569,
+                                        227,
+                                        627,
+                                        261
+                                    ],
+                                    "type": "text",
+                                    "content": "电力工程 Power"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        773,
+                        93,
+                        888,
+                        211
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                773,
+                                93,
+                                888,
+                                211
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        773,
+                                        93,
+                                        888,
+                                        211
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                773,
+                                                93,
+                                                888,
+                                                211
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0aa9747b05fc08db77b57d302b5199c13c5f1b1849f5550305add34ebbbef817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        799,
+                        227,
+                        861,
+                        262
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                799,
+                                227,
+                                861,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        799,
+                                        227,
+                                        861,
+                                        262
+                                    ],
+                                    "type": "text",
+                                    "content": "桥梁工程 Bridge"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        350,
+                        189,
+                        468
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                350,
+                                189,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        350,
+                                        189,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                350,
+                                                189,
+                                                468
+                                            ],
+                                            "type": "image",
+                                            "image_path": "71632267aac7f12c241ed35887e0281226e6d04be0a163cf7cb658456a22e745.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        74,
+                        484,
+                        189,
+                        517
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                484,
+                                189,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        484,
+                                        189,
+                                        517
+                                    ],
+                                    "type": "text",
+                                    "content": "市政工程 Municipal Engineer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        350,
+                        421,
+                        468
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                307,
+                                350,
+                                421,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        350,
+                                        421,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                350,
+                                                421,
+                                                468
+                                            ],
+                                            "type": "image",
+                                            "image_path": "14e9d1006272883ca3a67eb8c5c6b07fdec1fca31d731efe6397f27cda3ffb70.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        336,
+                        484,
+                        396,
+                        517
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                484,
+                                396,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        484,
+                                        396,
+                                        517
+                                    ],
+                                    "type": "text",
+                                    "content": "水利工程 Hydro"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        542,
+                        350,
+                        653,
+                        468
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                542,
+                                350,
+                                653,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        542,
+                                        350,
+                                        653,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                542,
+                                                350,
+                                                653,
+                                                468
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d30bc4255a1d8d338418914dd7f27a2fdefa73612e5bc9cd1aa47ecc0c082e3d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        553,
+                        484,
+                        642,
+                        536
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                553,
+                                484,
+                                642,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        553,
+                                        484,
+                                        642,
+                                        536
+                                    ],
+                                    "type": "text",
+                                    "content": "环保工程 Environmental Protection"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        773,
+                        350,
+                        888,
+                        468
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                773,
+                                350,
+                                888,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        773,
+                                        350,
+                                        888,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                773,
+                                                350,
+                                                888,
+                                                468
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7a07a79a9be3edf39ee0e2898205653032ea5bee92c9b3d16a75f8b917868741.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        765,
+                        484,
+                        896,
+                        517
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                765,
+                                484,
+                                896,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        765,
+                                        484,
+                                        896,
+                                        517
+                                    ],
+                                    "type": "text",
+                                    "content": "设备安装 Equipment Installation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        42,
+                        148,
+                        930,
+                        538
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                42,
+                                148,
+                                930,
+                                538
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        148,
+                                        930,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                148,
+                                                930,
+                                                538
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7b3973c73bde257a76bb5cdba2d0bb19dc1510743b89b755b5dd863c818dd91b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        21,
+                        101,
+                        239,
+                        123
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                101,
+                                239,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        101,
+                                        239,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "业务范围 Business Footprint"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        59,
+                        168,
+                        275,
+                        206
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                168,
+                                275,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        168,
+                                        275,
+                                        206
+                                    ],
+                                    "type": "text",
+                                    "content": "境外 "
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        168,
+                                        275,
+                                        206
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "30+"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        168,
+                                        275,
+                                        206
+                                    ],
+                                    "type": "text",
+                                    "content": " 个分公司或办事处 Over 30 offshore branches or offices"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        52,
+                        239,
+                        472,
+                        334
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                239,
+                                472,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        239,
+                                        472,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "业务涉及全球多个国家，例如布隆迪、孟加拉国、塞内加尔、布基纳法索、坦桑尼亚、阿尔及利亚、多米尼克、新西兰、马尔代夫、斯里兰卡、柬埔寨、马来西亚、蒙古、阿曼、塞尔维亚、菲律宾，肯尼亚等"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        52,
+                        341,
+                        471,
+                        435
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                341,
+                                471,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        341,
+                                        471,
+                                        435
+                                    ],
+                                    "type": "text",
+                                    "content": "Our Business involve countries all over the world such as Burundi, Bangladesh, Senegal, Burkina Faso, Tanzania, Algeria, Dominica, New Zealand, Maldives, Sri Lanka, Cambodia, Malaysia, Mongolia, Oman, Serbia, Philippines and Kenya etc."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        479,
+                        165,
+                        945,
+                        438
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                479,
+                                165,
+                                945,
+                                438
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        479,
+                                        165,
+                                        945,
+                                        438
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                479,
+                                                165,
+                                                945,
+                                                438
+                                            ],
+                                            "type": "image",
+                                            "image_path": "bdf914323247ce789af2348dfe0df8f3756ad56036da401baf9eae9e1bd81e17.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        168,
+                        211,
+                        614,
+                        366
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                168,
+                                211,
+                                614,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        211,
+                                        614,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "02 医院业绩 PERFORMANCE IN HOSPITALS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        96,
+                        895,
+                        448
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                50,
+                                96,
+                                895,
+                                448
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        96,
+                                        895,
+                                        448
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                96,
+                                                895,
+                                                448
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>序号\nNo</td><td>项目名称\nProject Name</td><td>业主单位\nEmployer</td><td>建筑面积\nConstruction Area(m²)</td><td>项目时间\nDuration</td><td>合同金额\nContract Value</td><td>项目简介\nBrief Introduction</td></tr><tr><td>1</td><td>益阳市公共卫生防控救治中心项目设计施工总承包\nPublic Health Prevention, Control and Treatment Center Project of Yiyang City</td><td>益阳市鱼形湖医养服务有限公司\nYiyang City fish-shaped lake medical service Co., LTD</td><td>256500</td><td>2022-2023</td><td>$195,433,060</td><td>公共医疗卫生区总建筑面积17.25万平方米，后勤保障区总建筑面积8.4万平方米。\nThe total construction area of the public medical and health area is 172,500 square meters, and the total construction area of the logistics support area is 84,000 square meters.</td></tr><tr><td>2</td><td>中南大学湘雅二医院第二医院门急诊楼工程\nThe Second Xiangya Hospital of Central South University Second Hospital Outpatient and Emergency Building Project</td><td>中南大学湘雅二医院\nThe Second Xiangya Hospital of Central South University</td><td>99000</td><td>2021-2022</td><td>$92,486,339</td><td>地上10层，地下3层，主要功能区为门诊、急诊、日间手术、医疗技术室。\nThere are 10 floors above ground and 3 floors underground, with the main functions areas of outpatient, emergency, day surgery and medical and technical rooms.</td></tr><tr><td>3</td><td>湖南旺旺医院医疗大楼二期\nMedical Building Phase II Project of Hunan Wangwang Hospital</td><td>湖南旺旺医院投资管理有限公司\nHunan Want Want Hospital Investment management Co. LTD</td><td>138490</td><td>2013-2015</td><td>$82,650,273</td><td>设计能力达到3000人次/天，预计新增床位960张。\nthe design capacity reaches 3,000 outpatients/day, and it is expected that 960 new beds will be added.</td></tr></table>",
+                                            "image_path": "98f62e94413a35153622a8c371cea7a497f3c2817c55296ed71027780bcc5ad2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        768,
+                        16,
+                        938,
+                        75
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                768,
+                                16,
+                                938,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        768,
+                                        16,
+                                        938,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "医院业绩PERFORMANCE INHOSPITAL PROJECTS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        36,
+                        76,
+                        938,
+                        428
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                36,
+                                76,
+                                938,
+                                428
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        76,
+                                        938,
+                                        428
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                36,
+                                                76,
+                                                938,
+                                                428
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>序号\nNo</td><td>项目名称\nProject Name</td><td>业主单位\nEmployer</td><td>建筑面积\nConstruction Area(m²)</td><td>项目时间\nDuration</td><td>合同金额\nContract Value</td><td>项目简介\nBrief Introduction</td></tr><tr><td>4</td><td>贵黔国际总医院（贵州妇女儿童国际医院）一期项目\nGui Qian International General Hospital (Guizhou Women&#x27;s and Children&#x27;s International Hospital) Phase I Project</td><td>贵州妇女儿童国际医院有限公司\nGuizhou Women and Children International Hospital Co., LTD</td><td>192000</td><td>2017-2019</td><td>$68,306,011</td><td>一期建设包括住院部、门诊部、急诊部、医技部、后勤保障部、行政办公大楼和地下停车场。\nThe first phase of construction includes inpatient department, outpatient clinic, emergency clinic, medical technology, logistics support department, administrative office building and underground parking garage.</td></tr><tr><td>5</td><td>援多米尼克医院维修扩建项目\nThe China-aided Repair and Expansion Project of Princess Margaret Hospital in Dominica</td><td>商务部经合局\nAgency for International Economic co-eration, Ministry of Commerce</td><td>16500</td><td>2015-2022</td><td>$32,392,077</td><td>新建门诊楼、急诊楼、病区楼、候诊大厅、行政教学楼、专家宿舍楼、太平间、冷库等，扩建公共设施楼并进行粉刷。\nNew outpatient building, emergency building, ward building, waiting hall, administrative teaching building, expert dormitory building, mortuary, cold storage, etc., expand the public facilities building and paint</td></tr><tr><td>6</td><td>北京积水潭中山骨科医院一期工程施工\nBeijing Jishuitan Zhongshan Orthopedic Hospital phase I construction</td><td>中山市人民政府南区办事处（广东）\nZhongshan City People&#x27;s Government Southern District Office (Guangdong)</td><td>33672</td><td>2011-2012</td><td>$27,322,404</td><td>框架结构，地上5层，局部地下2层，建筑物高度30m，标准层层高4m\nFrame structure, 5 floors above ground, local underground 2 floors, building height 30m, the standard layer height 4m</td></tr></table>",
+                                            "image_path": "e6da1c2110187af6d316c49acad703e00fe69c966a865bc86c4d5a792fd46237.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 11
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        770,
+                        16,
+                        938,
+                        75
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                770,
+                                16,
+                                938,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        770,
+                                        16,
+                                        938,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "医院业绩"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        36,
+                        74,
+                        938,
+                        504
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                36,
+                                74,
+                                938,
+                                504
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        74,
+                                        938,
+                                        504
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                36,
+                                                74,
+                                                938,
+                                                504
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>序号\nNo</td><td>项目名称\nProject Name</td><td>业主单位\nEmployer</td><td>建筑面积\nConstruction Area(m²)</td><td>项目时间\nDuration</td><td>合同金额\nContract Value</td><td>项目简介\nBrief Introduction</td></tr><tr><td>7</td><td>中南大学湘雅第二医院精卫综合楼建设\n项目\nXiangya Second Hospital of Central South University, Jingwei comprehensive building construction project</td><td>中南大学湘雅二医院\nThe Second Xiangya Hospital of Central South University</td><td>46216</td><td>2012-2017</td><td>$22,256,811</td><td>地上38,449 m2，地下7,767 m\n238,449 m2 above ground, 7,767 m2 underground</td></tr><tr><td>8</td><td>娄底市中心医院新综合楼建设工程\nLoudi City Central Hospital new comprehensive building construction project</td><td>娄底市中心医院\nLoudi Central Hospital</td><td>35595</td><td>2014-2016</td><td>$15,522,281</td><td>22层框架-剪力墙结构\n22-level frame-shear wall structure</td></tr><tr><td>9</td><td>佛冈县人民医院内科综合大楼建设项目\nInternal Medicine Complex Construction Project of Fogang County People&#x27;s Hospital</td><td>佛冈县代建项目管理中心\nFogang County agent construction project management center</td><td>25231</td><td>2018-2021</td><td>$15,509,495</td><td>建筑面积3600平方米，建筑面积25231.4平方米\nthe floor area is 3600 square meters; construction area is 25231.4 square meters</td></tr><tr><td>10</td><td>宜章县人民医院急诊综合楼（含县急救中心）和内科大楼工程（EPC）总承包\nYizhang County People&#x27;s Hospital emergency complex building (including county emergency center) and internal medicine building project (EPC) general contract</td><td>宜章县人民医院\nYizhang County People&#x27;s Hospital</td><td>24045</td><td>2017-2019</td><td>$14,626,289</td><td>框架-剪力墙结构\nFrame-shear wall structure</td></tr></table>",
+                                            "image_path": "8727275c9bec84dd6d77712e36ed862daddef32afc3aa1dd42ae1274e8af0465.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 12
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        18,
+                        70,
+                        633,
+                        478
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                18,
+                                70,
+                                633,
+                                478
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        70,
+                                        633,
+                                        478
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                18,
+                                                70,
+                                                633,
+                                                478
+                                            ],
+                                            "type": "image",
+                                            "image_path": "240fca45d393961c7e46e3406502c6f4e321fc015fe7ec965854ee3fd818d3f0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        644,
+                        104,
+                        931,
+                        210
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                644,
+                                104,
+                                931,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        644,
+                                        104,
+                                        931,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "01 The Second Xiangya Hospital of Central South University Second Hospital Outpatient and Emergency Building Project 01中南大学湘雅二医院门急诊楼项目"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        655,
+                        251,
+                        928,
+                        366
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                655,
+                                251,
+                                928,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        655,
+                                        251,
+                                        928,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total construction area of the building is 99,000 square meters, with a cost of 677 million CNY. There are 10 floors above ground and 3 floors underground, with the main functions areas of outpatient, emergency, day surgery and medical and technical rooms."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        655,
+                        368,
+                        928,
+                        436
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                655,
+                                368,
+                                928,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        655,
+                                        368,
+                                        928,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：大楼总建筑面积9.9万平方米，造价6.77亿元，地上10层，地下3层，主要功能设置为门诊、急诊、日间手术和医技用房等。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 13
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        8,
+                        64,
+                        487,
+                        271
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                8,
+                                64,
+                                487,
+                                271
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        64,
+                                        487,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                8,
+                                                64,
+                                                487,
+                                                271
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d2e2c45e65db0e91404de4b2e84abec5c39f31b8321a3abca99341d6ff8b5d8b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        14,
+                        302,
+                        198,
+                        409
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                302,
+                                198,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        302,
+                                        198,
+                                        409
+                                    ],
+                                    "type": "text",
+                                    "content": "02 The Second Inpatient Building of the Second Xiangya Hospital of Central South University  02 中南大学湘雅二医院第二住院大楼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        20,
+                        436,
+                        177,
+                        490
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                20,
+                                436,
+                                177,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        436,
+                                        177,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "Won three Luban Awards in 2006  获2006年度3项鲁班奖"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        501,
+                        89,
+                        705,
+                        179
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                89,
+                                705,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        89,
+                                        705,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "03 Medical Building of New Area of Xiangya Hospital of Central South University  03 中南大学湘雅医院新医疗区医疗大楼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        739,
+                        110,
+                        895,
+                        164
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                739,
+                                110,
+                                895,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        739,
+                                        110,
+                                        895,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "Won three Luban Awards in 2010  获2010年度3项鲁班奖"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        496,
+                        189,
+                        833,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                496,
+                                189,
+                                833,
+                                426
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        496,
+                                        189,
+                                        833,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                496,
+                                                189,
+                                                833,
+                                                426
+                                            ],
+                                            "type": "image",
+                                            "image_path": "449bfa53ce17e9f3357e84623567d3e1eea50e038cba203e1c08b31436f2abe2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        506,
+                        447,
+                        749,
+                        522
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                506,
+                                447,
+                                749,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        506,
+                                        447,
+                                        749,
+                                        522
+                                    ],
+                                    "type": "text",
+                                    "content": "04 The Surgical Ward Building of the Third Xiangya Hospital of Central South University  04 中南大学湘雅三医院外科病房楼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        764,
+                        449,
+                        916,
+                        523
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                764,
+                                449,
+                                916,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        764,
+                                        449,
+                                        916,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "Won three Luban Awards in 2012- 2013  获2012- 2013年度3项鲁班奖"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 14
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        70,
+                        957,
+                        538
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                70,
+                                957,
+                                538
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        70,
+                                        957,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                70,
+                                                957,
+                                                538
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7c5c7486f133dc37dd931c1c9281c13c28cf2b1870285485a25e24a344f71467.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 15
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        76,
+                        945,
+                        418
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                76,
+                                945,
+                                418
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        76,
+                                        945,
+                                        418
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                76,
+                                                945,
+                                                418
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4d0226e9d88f08c96feff8c0570442064bf22a1f8899a5022118376305080eb4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        14,
+                        426,
+                        159,
+                        444
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                426,
+                                159,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        426,
+                                        159,
+                                        444
+                                    ],
+                                    "type": "text",
+                                    "content": "06攸州中心医院二期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        14,
+                        444,
+                        382,
+                        480
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                444,
+                                382,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        444,
+                                        382,
+                                        480
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：总规划占地面积约10万平方米，总建筑面积约19万平方米，总投资约12亿元。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        467,
+                        420,
+                        708,
+                        438
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                467,
+                                420,
+                                708,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        467,
+                                        420,
+                                        708,
+                                        438
+                                    ],
+                                    "type": "text",
+                                    "content": "06 Youzhou Central Hospital (Phase II)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        474,
+                        440,
+                        904,
+                        490
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                474,
+                                440,
+                                904,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        474,
+                                        440,
+                                        904,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Profile: The total planning area is about 100,000 square meters, the total construction area is about 190,000 square meters, and the total investment is about 1.2 billion CNY."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 16
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        20,
+                        119,
+                        135,
+                        299
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                20,
+                                119,
+                                135,
+                                299
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        119,
+                                        135,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                20,
+                                                119,
+                                                135,
+                                                299
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7f669d6c52eec756992e0b3ac7da75d802665d5b2346d26b6ab595e5e621ee9a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        155,
+                        129,
+                        378,
+                        183
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                155,
+                                129,
+                                378,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        155,
+                                        129,
+                                        378,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "07 Public Health Clinical Center Project of Xiangxi Prefecture"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        155,
+                        184,
+                        376,
+                        203
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                155,
+                                184,
+                                376,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        155,
+                                        184,
+                                        376,
+                                        203
+                                    ],
+                                    "type": "text",
+                                    "content": "07 湘西州公共卫生临床中心项目"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        23,
+                        312,
+                        264,
+                        415
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                312,
+                                264,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        312,
+                                        264,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The awarded contract value of the project was 390 million CNY. The project is located in Jishou City, Xiangxi Prefecture, with a total construction area of about 51,000 square meters."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        23,
+                        420,
+                        264,
+                        474
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                420,
+                                264,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        420,
+                                        264,
+                                        474
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：项目中标金额3.9亿元。项目位于湘西州吉首市，总建筑面积约5.1万㎡。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        402,
+                        108,
+                        938,
+                        483
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                402,
+                                108,
+                                938,
+                                483
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        402,
+                                        108,
+                                        938,
+                                        483
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                402,
+                                                108,
+                                                938,
+                                                483
+                                            ],
+                                            "type": "image",
+                                            "image_path": "937d5241dcb2a0f67ae0daf11a2a377a6d77ac5a91c921a98e2aa6da7d939248.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 17
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        23,
+                        130,
+                        454,
+                        418
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                23,
+                                130,
+                                454,
+                                418
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        130,
+                                        454,
+                                        418
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                130,
+                                                454,
+                                                418
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c6d346902c09640b9b596d634da760334ad22c0549cf1e0dee4fabcbbcde2c6d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        34,
+                        436,
+                        429,
+                        503
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                436,
+                                429,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        436,
+                                        429,
+                                        503
+                                    ],
+                                    "type": "text",
+                                    "content": "08 Public Health Treatment Center Original Site Renovation and Expansion Project of Changsha City08 长沙市公共卫生救治中心原址改扩建项目"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        492,
+                        109,
+                        912,
+                        181
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                109,
+                                912,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        109,
+                                        912,
+                                        181
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total investment of the project is 1.22 billion CNY, and the total construction area is about 146,000 square meters.项目简介：项目总投资12.2亿元，总建筑面积约14.6万平米。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        485,
+                        226,
+                        916,
+                        507
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                485,
+                                226,
+                                916,
+                                507
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        485,
+                                        226,
+                                        916,
+                                        507
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                485,
+                                                226,
+                                                916,
+                                                507
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f75867cb9669153830a83a68be0d304ae99f3067c787bb32871f047df5d36f13.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 18
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        29,
+                        70,
+                        500,
+                        354
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                29,
+                                70,
+                                500,
+                                354
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        29,
+                                        70,
+                                        500,
+                                        354
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                29,
+                                                70,
+                                                500,
+                                                354
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6c8a5d54168bffe6b7f9156619807e77119bc57cfa0f2619587dbfb5b852129f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        64,
+                        409,
+                        415,
+                        446
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                409,
+                                415,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        409,
+                                        415,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "09 Public Health Prevention, Control and Treatment Center Project of Yiyang City"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        64,
+                        462,
+                        315,
+                        482
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                462,
+                                315,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        462,
+                                        315,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "09 益阳市公共卫生防控救治中心项目"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        552,
+                        92,
+                        882,
+                        145
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                552,
+                                92,
+                                882,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        552,
+                                        92,
+                                        882,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total construction area of the project is 256,000 square meters, and the construction cost is 1.43 billion CNY."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        552,
+                        163,
+                        877,
+                        201
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                552,
+                                163,
+                                877,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        552,
+                                        163,
+                                        877,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：项目总建筑面积为25.6万平米，建安造价14.3亿元。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        443,
+                        244,
+                        938,
+                        506
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                443,
+                                244,
+                                938,
+                                506
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        443,
+                                        244,
+                                        938,
+                                        506
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                443,
+                                                244,
+                                                938,
+                                                506
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d1381a5721c9f979598e591ea4e8df710b0071f17cfed5f1538f38fa672e8ca2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 19
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        109,
+                        383,
+                        164
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                109,
+                                383,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        109,
+                                        383,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "10 Medical Building Phase II Project of Hunan Wangwang Hospital  10 湖南旺旺医院医疗大楼二期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        23,
+                        205,
+                        420,
+                        440
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                23,
+                                205,
+                                420,
+                                440
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        205,
+                                        420,
+                                        440
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                205,
+                                                420,
+                                                440
+                                            ],
+                                            "type": "image",
+                                            "image_path": "171f2c422a569221703243832edf2fd9b85f98a62b04a0a62a321a65229d56ca.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        424,
+                        107,
+                        933,
+                        440
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                424,
+                                107,
+                                933,
+                                440
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        424,
+                                        107,
+                                        933,
+                                        440
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                424,
+                                                107,
+                                                933,
+                                                440
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ae962809519b4266135e96f375b5db6f15159dd7388ee4107bc5d1374bccc619.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        31,
+                        460,
+                        921,
+                        516
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                460,
+                                921,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        460,
+                                        921,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total construction area is 169,000 square meters, the project cost is 605 million CNY, the design capacity reaches 3,000 outpatients/day, and it is expected that 960 new beds will be added.  项目简介：总建筑面积为16.9万平米，项目造价6.05亿元，设计规模达到门诊人数3000人次/日，预计新增床位960床。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 20
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        5,
+                        68,
+                        470,
+                        278
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                5,
+                                68,
+                                470,
+                                278
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        5,
+                                        68,
+                                        470,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                5,
+                                                68,
+                                                470,
+                                                278
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cc929b252a42c10cc7f313b1cda9415be841366aa51238b066434a274cb5e1d8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        9,
+                        296,
+                        479,
+                        420
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                9,
+                                296,
+                                479,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        9,
+                                        296,
+                                        479,
+                                        420
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total construction area is 192,000 square meters, the project cost is 500 million CNY, the basement construction area is 60,000 square meters (three floors), the podium is 84,000 square meters (five floors), the tower is 48,000 square meters (19 floors). The first phase of construction includes inpatient department, outpatient clinic, emergency clinic, medical technology, logistics support department, administrative office building and underground parking garage."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        9,
+                        422,
+                        478,
+                        490
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                9,
+                                422,
+                                478,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        9,
+                                        422,
+                                        478,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：总建筑面积192000平方米，工程造价5亿元，地下室建筑面积60000平（三层），裙楼84000平（五层），塔楼48000平（19层），一期建设内容有住院部、门诊、急诊、医技、后勤保障部、行政办公楼及地下停车库。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        510,
+                        147,
+                        897,
+                        202
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                510,
+                                147,
+                                897,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        510,
+                                        147,
+                                        897,
+                                        202
+                                    ],
+                                    "type": "text",
+                                    "content": "11 Gui Qian International General Hospital (Guizhou Women's and Children's International Hospital) Phase I Project  11 贵黔国际总医院（贵州妇女儿童国际医院）一期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        491,
+                        217,
+                        914,
+                        511
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                491,
+                                217,
+                                914,
+                                511
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        217,
+                                        914,
+                                        511
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                491,
+                                                217,
+                                                914,
+                                                511
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6f3639b65b2f0687117136e998494a304929aa6014bab99c6fd05c9e56a9cf8a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 21
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        59,
+                        85,
+                        378,
+                        127
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                85,
+                                378,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        85,
+                                        378,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "12 Lianyuan People's Hospital Project in Loudi City  12 娄底市涟源市人民医院项目"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        18,
+                        159,
+                        564,
+                        537
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                18,
+                                159,
+                                564,
+                                537
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        159,
+                                        564,
+                                        537
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                18,
+                                                159,
+                                                564,
+                                                537
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5d02a7e4e37e92840be7b04939118748d6f290e81a71729780a89696ea27b711.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        573,
+                        79,
+                        958,
+                        336
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                573,
+                                79,
+                                958,
+                                336
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        573,
+                                        79,
+                                        958,
+                                        336
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                573,
+                                                79,
+                                                958,
+                                                336
+                                            ],
+                                            "type": "image",
+                                            "image_path": "81c5f967becb4ebded4d89b836d1c11fb6e44e38935f575c06ecfd63eefb6186.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        587,
+                        375,
+                        918,
+                        463
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                587,
+                                375,
+                                918,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        587,
+                                        375,
+                                        918,
+                                        463
+                                    ],
+                                    "type": "text",
+                                    "content": "Project Introduction: The total construction area of the project is 138,275m² and the cost is 680 million CNY, including outpatient complex, inpatient building, infection building, logistics management teaching complex and common large basement."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        587,
+                        465,
+                        918,
+                        520
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                587,
+                                465,
+                                918,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        587,
+                                        465,
+                                        918,
+                                        520
+                                    ],
+                                    "type": "text",
+                                    "content": "项目简介：项目总建筑面积138275m²，造价金额6.8亿，包括门诊综合楼、住院楼、感染楼、后勤管理教学综合楼及共用大地下室。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 22
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        352,
+                        84,
+                        626,
+                        235
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                352,
+                                84,
+                                626,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        352,
+                                        84,
+                                        626,
+                                        235
+                                    ],
+                                    "type": "text",
+                                    "content": "联系我们FIND US"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        437,
+                        251,
+                        539,
+                        292
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                437,
+                                251,
+                                539,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        437,
+                                        251,
+                                        539,
+                                        292
+                                    ],
+                                    "type": "text",
+                                    "content": "OFFICIAL WEBSITEen.hncig.cn"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        467,
+                        318,
+                        507,
+                        335
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                467,
+                                318,
+                                507,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        467,
+                                        318,
+                                        507,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "E- MAIL"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        405,
+                        341,
+                        571,
+                        359
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                405,
+                                341,
+                                571,
+                                359
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        405,
+                                        341,
+                                        571,
+                                        359
+                                    ],
+                                    "type": "text",
+                                    "content": "marketing@hciqlobal.cn"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        461,
+                        389,
+                        516,
+                        406
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                461,
+                                389,
+                                516,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        461,
+                                        389,
+                                        516,
+                                        406
+                                    ],
+                                    "type": "text",
+                                    "content": "ADDRESS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        240,
+                        415,
+                        728,
+                        431
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                240,
+                                415,
+                                728,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        240,
+                                        415,
+                                        728,
+                                        431
+                                    ],
+                                    "type": "text",
+                                    "content": "No.788 South Furong Road, Tianxin District, Changsha City, Hunan Province, China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 23
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        336,
+                        241,
+                        707,
+                        293
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                241,
+                                707,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        241,
+                                        707,
+                                        293
+                                    ],
+                                    "type": "text",
+                                    "content": "湖南建工集团有限公司HUNAN CONSTRUCTION ENGINEERING GROUP CO.,LTD"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                960,
+                540
+            ],
+            "page_idx": 24
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.0.6"
+}

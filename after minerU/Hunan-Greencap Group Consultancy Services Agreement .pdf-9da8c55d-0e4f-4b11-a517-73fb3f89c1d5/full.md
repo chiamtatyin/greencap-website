@@ -1,0 +1,575 @@
+# THE CONSULTANCY AGREEMENT OF ESTABLISHMENT OF PMU 275/132/33KV KUALA TERENGGANU SOUTH PROJECT
+
+咨询服务协议
+
+新建登嘉楼南部 275/132/33KV 变电站工程项目
+
+BETWEEN
+
+# HUNAN CONSTRUCTION ENGINEERING (M) SDN. BHD.
+
+湖南建工集团马来西亚有限公司
+
+AND
+
+GREENCAP GROUP SDN BHD.
+
+Greencap集团有限公司
+
+# Consultancy Agreement
+
+# 咨询服务协议
+
+THIS AGREEMENT is made and entered into on December 20, 2024, by and between HUNAN CONSTRUCTION ENGINEERING (M) SDN. BHD., is a company incorporated under the laws of Malaysia with its registered office located at A4- 3- 3, Solaris Dutamas, No.1, Jalan Dutamas 1, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur ("HNCE");
+
+AND
+
+GREENCAP GROUP SDN. BHD., a company duly registered, domiciled, and validly existing in and under the laws of the Republic of Malaysia, with its registered office address located at 54A, Jalan Utama 44, Taman Mutiara Rini, 81300 Skudai, Johor, Malaysia ("The Consultant").
+
+本协议签署于2024年12月20日，签署双方为：
+
+湖南建工集团马来西亚有限公司，为根据马来西亚法律注册的一家公司，其注册地址是马来西亚吉隆坡联邦直辖区A4栋3楼3室，杜达玛斯，1号，杜达玛斯路1（“建工马来”）；
+
+和
+
+Greencap集团有限公司，一家根据马来西亚法律注册，有正式注册地址，有效存在的公司，其注册地址是马来西亚柔佛州士姑来市81300号，塔曼·穆塔拉·里尼，乌塔玛路44号54A栋（“咨询公司”）。
+
+# WHEREAS
+
+A. HNCE is interested to participate in ESTABLISMENT OF PMU 275/132/33KV KUALA TERENGGANU SOUTH Project ("Project") announced by Tenaga Nasional Berhad (the "Employer"). 
+B. The Consultant possesses extensive experience and reputable professional credentials in the field of power engineering, as along with good public relations in Malaysia. 
+C. The Consultant has accepted the appointment from HNCE to provide consultancy service for the whole period of the Project.
+
+鉴于
+
+A.建工马来有兴趣参与马来西亚电力公司（“雇主”）发布的新建登嘉楼南部275/132/33KV变电站工程项目（“项目”）。
+
+B.咨询公司在电力工程领域具有长期经验和声誉良好的专业认证，在马来西亚有良好的公共关系系。
+
+C.咨询公司已接受建工马来的委托，在整个项目期间提供咨询服务。
+
+NOW, THEREFORE, in consideration of the premises and of the undertakings contained herein, the Parties hereby agreed as follows:
+
+因此，考虑到本协议包含的前提和承诺，双方特此同意如下：
+
+# 1.Definition定义
+
+1.1. In the Agreement 在本协议中:
+
+Agreement means this Consultancy Agreement signed between the Parties.
+
+协议是指双方签订的本咨询服务协议。
+
+Contract means the Contract for the Project signed (if any) between the Employer and HNCE.
+
+合同是指发包人与建工马来之间签订的项目总包合同（如有）。
+
+Financing Agreement means the financing agreement (or agreements, if any) for the Project signed between the financial institutions and the Employer.
+
+融资协议是指金融机构与发包人签订的项目融资协议（一个或多个协议，如有）。
+
+MOU means the memorandum of understanding for the Project signed (if any) between the Employer and HNCE.
+
+谅解备忘录是指发包人与建工马来就本项目签署的谅解备忘录（如有）。
+
+Affiliates with respect to a party means each of its holding companies, subsidiaries, and each subsidiary of each holding company (as each such term is defined in the Companies Act 2006), and "Affiliate" shall be construed accordingly.
+
+关联公司是指就一方而言，其各控股公司及关联公司以及其各控股公司的各关联公司（如2006年《公司法》所定义），“关联公司（单数）”应作相应解释。
+
+Working Day means any day other than public holiday or legal holiday in the country where the Project is located.
+
+工作日是指除项目所在地公共假日或法定假日以外的工作日。
+
+Confidential Information means any information relating to the other party and its Affiliates, the Services, any Potential Transaction, any Contact, and any other information that would reasonably be considered confidential, in whatever form (including information given orally, in writing or by any other means).
+
+机密信息是指与另一方及其关联公司、服务、任何潜在交易、任何联系人有关的任何信息，以及任何形式（包括口头或任何其他方式提供的信息）被合理视为机密的任何其他信息。
+
+Mandatory Policies means the relevant policies of HNCE and as amended by notification to the Consultant from time to time.
+
+强制性政策指建工马来的相关政策，并不时通知咨询公司进行修订。
+
+强制性政策指建工马来的相关政策，并不时通知咨询公司进行修订。1.2. In this Agreement, the following words and expressions shall have the meanings as defined in the Contract or other official documents: Contract Price, Contingency, Day Works, Force Majeure, Defects Notification Period/Defects Liability Period, Letter of Acceptance, Taking- Over Certificate, Performance Certificate, Performance Security, Warranty Security, and Provisional Sum. 在本协议中，下列词语应具有合同或其他正式文件中定义的含义：合同价格，意外事故，日工，不可抗力，缺陷通知期/缺陷责任期，中标通知书，接收证书，履约证书，履约担保，保修担保和暂定金额。
+
+# 2. Appointment 任命
+
+2.1. HNCE hereby appoints the Consultant to act as commercial and technical adviser to HNCE throughout the entire period of the Project until the completion of Defect Notification/Liability Period, including but not limited to pursuing, bidding (or promoting, scheming), and execution.
+
+建工马来委托咨询公司在本项目的整个期限内直至缺陷通知/责任期结束担任其商务和技术咨询顾问，包括但不限于跟踪，投标（或推广，策划）和执行。
+
+2.2. The Consultant accepts the above engagement.
+
+咨询公司接受上述聘用。
+
+2.3. By entering into this Agreement, the Parties do not mean to form or establish any partnership or other form of asset association, or constitute any employment relationship between them, and each Party remains a separate legal entity from the other.
+
+通过订立本协议，双方并不意味着在双方之间形成或建立任何合伙或其他形式的资产关联或构成任何雇佣关系，且双方仍然是与另一方独立的法律实体。
+
+# 3. OBLIGATIONS OF HNCE 建工马来的义务
+
+3.1. HNCE shall provide necessary documents, certifications, and other necessary technical and commercial supports to the Consultant for the purpose of pursuing the Project.
+
+建工马来应向咨询人提供必要的文件，证明和其他必要的技术，商务支持以推进本项目。
+
+3.2. HNCE shall pay Consultancy Fee to the Consultant in accordance with Article 6 of this Agreement.
+
+建工马来应按照本协议第6条的规定向咨询公司方支付咨询费。
+
+3.3. HNCE shall assist in the work of finance for the Project from financial institution (if required by the Employer).
+
+建工马来应当协助从相关银行获得融资（如果业主要求）。
+
+3.4. HNCE shall execute and perform under the relevant agreements in respect of the construction of the Project.
+
+建工马来应当执行有关项目建设的其他协议。
+
+# 4. OBLIGATIONS OF THE CONSULTANT 咨询公司的义务
+
+4.1. The Consultant shall act as adviser to HNCE for the Project and render its services to the satisfaction of HNCE.
+
+咨询公司应在项目中担任建工马来顾问，并提供使其满意的服务。
+
+4.2. The Consultant shall assist HNCE in entering the power engineering market. if HNCE request the Consultant to provide consultancy service for other projects, the Parties shall enter into a separate agreement.
+
+咨询公司应协助建工马来进入电力工程市场。HNCE要求咨询公司在其他项目中提
+
+供咨询服务的，应当另行约定。
+
+4.3. The Consultant shall assist HNCE to establish and maintain amicable business relationship with the Employer and to communicate with relevant authorities. The Consultant shall not be released from such obligations due to any alteration of public relations or other similar circumstances throughout the duration of this Agreement.
+
+咨询公司应协助建工马来与发包人建立和保持友好的业务关系，并与有关部门进行沟通。在整个协议期限内，咨询公司不能因公共关系的任何变更或其他类似情况而免除该等义务。
+
+4.4. The Consultant shall assist HNCE during the pursuing, bidding of the Project and negotiating of the Contract with the Employer. If the Project is awarded to HNCE, the Consultant shall follow the instructions given by HNCE during the execution of the Project and Defect Notification/Liability Period and shall assist HNCE to deal with all matters related thereto, including but not limited to executing Variation and claiming adjustments to the Contract Price.
+
+咨询公司应协助建工马来进行项目的跟踪，投标以及与发包人谈判合同。如果建工马来被授予项目，咨询公司应遵循建工马来的指示并协助建工马来处理与之相关的一切事宜，包括但不限于执行变更令和申请合同价格的调整。
+
+4.5. During the earlier stage of the Project, the Consultant shall fulfill obligations as following:
+
+项目前期，咨询公司应：
+
+a. Collect and timely provide necessary information and data which are deemed of interest to HNCE, including but not limited to the current development of the Project, information about local materials, equipment, relevant laws, regulations, local policies and practice on labor, tax, custom duties, finance, insurance, transport and investment;
+
+收集并及时提供给建工马来感兴趣的必要信息和资料，包括但不限于本项目目前的发展情况，当地人、材、机市场情况及价格信息，有关法律，法规，当地有关劳工，税收，关税，金融，保险，运输，投资等方面的政策和惯例；
+
+b. Assist HNCE in preparing the bidding documents (or the Project documents, including but not limited to the Project Proposal, Environmental Impact Assessment (EIA), Social Impact Assessment (SIA), Health Impact Assessment (HIA), Pre-Feasibility Study (PFS), Feasibility Study (FS), Geological Exploration, Economic Feasibility Analysis (EFA), Technical
+
+Feasibility Analysis((TFA) etc.) and shall review or arrange competent personnel to review such documents;
+
+协助建工马来编制投标文件（或项目文件，包括但不限于项目建议书，环境影响评价，社会影响评价，卫生影响评价，预可行性研究，可行性研究，地质勘查，经济可行性分析，技术可行性分析待），并应审查或安排有能力的人员对该等文件进行审查；
+
+c. Assist HNCE in obtaining approvals from relevant government, cabinet, and parliamentary authorities (If the employer requests).
+
+协助建工马来获得有关政府、议会、内阁的批准（若业主要求）。
+
+4.6. During Contract negotiation stage, the Consultant shall assist HNCE in negotiating the terms and conditions of the Contract with the Employer.
+
+合同谈判阶段，协助建工马来与发包人就合同条款和条件进行谈判。
+
+4.7. During the Contract execution stage, the Consultant shall fulfill obligations as following:项目合同执行期间，咨询公司应：
+
+a. make that HNCE's rights under the Contract with Tenaga Nasional Berhad (the Employer) will be fulfilled without any extra Consultancy Fee (specified in Clause 6.1);
+
+使建工马来与马来西亚电力公司签订的合同项下的湖南建工的权利能充分履行，并且建工马来不需要咨询服务公司付出额外的咨询费用（6.1条咨询服务费）；
+
+b. Assist HNCE in receiving the Project payment according to the payment terms agreed in the Contract;
+
+协助建工马来按合同中约定的支付条款收取工程款项；
+
+c. Assist the Employer and/or local authorities in negotiating the loan agreements with banks, and finalizing the loan agreement closure (If the employer requests);
+
+协助业主、当地政府就贷款协议条款与金融机构进行谈判磋商，并最终促成融资协议达成（若业主要求）；
+
+d. Timely assist HNCE, for the successful execution of the Contract, from the Employer and relevant authorities, in obtaining the following documents, including but not limited to temporary land-use approval, design approval,
+
+construction drawing approval, approval for material and equipment, resident permit, work permit, taking- over certificate, performance certificate, interim payment certificate, final payment certificate, project payment and other relevant permit, license, certificates, registrations, as well as in getting adequate support in land acquisition, resettlement, tax exemption, tax clearance, custom clearance, local content, etc.
+
+为顺利执行该合同, 咨询公司应及时协助建工马来从发包人和有关部门取得下列文件, 包括但不限于临时用地批准书, 设计批准书, 施工图批准书, 材料设备批准书, 居住许可证, 工作许可证, 接收证书, 履约证书, 期中付款证书, 最终付款证书, 工程款及其他有关许可, 执照, 证书, 注册, 以及在土地征用, 重新安置, 免税, 清税, 清关, 本地含量等方面获得足够的支持。
+
+4.8. During the construction stage, the Consultant shall fulfill obligations as following: 项目实施期间, 咨询公司应:
+
+a. Assist HNCE in managing the relationship with the Employer and the Supervising Engineer, and in overcoming any obstacles, including but not limited to any occurrence of Force Majeure and any delay or inactivity by the Employer;
+
+协助建工马来处理好与业主及监理之间的合作关系。如果本项目的执行遇到任何困难, 包括但不限于不可抗力的发生或发包人的任何延误或不作为, 咨询公司应协助建工马来尽快克服这些障碍;
+
+b. Assist HNCE in resolving the issues about technical, claim, price adjustment, exchange rate conversion, land acquisition, demolition, civil dispute, and blackmail that may arise;
+
+协助建工马来解决在施工过程中可能会出现的如技术、索赔、价格调差、汇率换算等问题, 以及征地、拆迁、民事纠纷、恶意讹诈等当地社会问题;
+
+c. Assist HNCE in the public relations issues, guiding the public media and public opinion to speak out in a positive way, and improving HNCE's reputation within the region, when negative incidents happen;
+
+若项目在实施过程中出现负面事件, 应协助建工马来解决公关问题, 引导公众媒体、公众舆论正向发声, 在区域范围内提升客户的声誉。
+
+4.9. If the Consultant chooses a partner for the purpose of carrying out this Agreement, any work done by such partner is deemed as the work done by the Consultant. The Consultant shall be responsible for the activities of such partner and for all costs and liabilities in connection with the choice and appointment of such partners.
+
+如果咨询公司为执行本协议而选择合伙人，则该合伙人所做的任何工作均视为咨询公司所做的工作。咨询公司应负责此类合伙人的行为以及与此类合伙人的选择和任命有关的所有费用和责任。
+
+4.10. Unless granted by written permit of HNCE, the Consultant shall not act, make any commitment, assume any responsibility, or sign any agreement, contract or legal document in the name of or on behalf of HNCE.
+
+除非得到建工马来的书面许可，咨询公司不得以其名义或代表其行事，作出任何承诺或承担任何责任，或签署任何协议，合同或任何其他法律文件。
+
+4.11. The Consultant shall undertake all moral and legal responsibilities caused by its performance of this Agreement. The Consultant covenants to indemnify and hold HNCE harmless from and against all damages, losses, liabilities, fines, penalties and related costs and expenses (including but not limited to court and/or arbitration costs and attorneys' fees) arising from claims of any third party which directly or indirectly arise out of or result from any performance or failure of performance of the Consultant's obligations under this Agreement.
+
+咨询公司应承担因其履行本协议而引起的一切道德和法律责任。咨询公司承诺赔偿建工马来，并使建工马来免受因任何第三方由于直接或间接履行或未能履行本协议而产生的所有损害、损失、责任、罚款、罚款及相关成本和开支的损害（包括但不限于法院和/或仲裁费用和律师费）。
+
+4.12. The Consultant shall be working exclusively for HNCE under the execution of this Agreement. If the Consultant or its shareholder, at any time, works for other competitors of the Project, HNCE will be released from all and any obligations under this Agreement and reserve the rights to claim damages for the Consultant's breach of the obligation of exclusivity.
+
+根据本协议的执行，咨询公司应完全为建工马来工作。如果咨询公司或其股东在任何时候为本项目的其他竞争者工作，建工马来将被免除本协议项下的所有和任何义务，并保留就咨询公司违反排他性义务要求损害赔偿的权利。
+
+4.13. The Consultant shall have no authority, and shall not hold itself out, permit any person to hold itself out, or otherwise create the impression that it is authorized to bind HNCE in any way and shall not do any act which might reasonably create the impression that the Consultant is so authorized.
+
+咨询公司没有授权，也不应坚持或允许任何人坚持，或以其他方式造成其被授权以任何方式约束建工马来的印象，也不应采取任何可能合理地造成咨询公司被授权的印象的行为。
+
+4.14. The Consultant shall disclose to each Contact that it is a Consultant of HNCE and that it has no authority or ability to negotiate any Potential Transaction and vary any Transaction or the terms of any such Potential Transaction or Transaction, or enter into any Transaction or other contract on behalf of HNCE without prior written consent.
+
+咨询公司应向各联系人披露其为建工马来的顾问，且未经事先书面同意，其无权或无能力代表建工马来协商任何潜在交易或更改任何交易或任何此类潜在交易或交易的条款或订立任何交易或其他合同。
+
+4.15. The Consultant shall not, without the prior written consent of HNCE during the term of this Agreement, perform duties similar to the Services on behalf of any person similar to HNCE.
+
+在本协议期限内，未经建工马来事先书面同意，咨询公司不得代表与建工马来类似的任何人履行服务职责。
+
+4.16. The Consultant shall not produce any marketing material for HNCE's business or use HNCE name, logo, or trademarks on any marketing material without HNCE's prior written consent.
+
+未经建工马来事先书面同意，咨询公司不得为建工马来的业务制作任何营销材料或在任何营销材料上使用“建工马来”的名称、徽标或商标。
+
+4.17. The Consultant shall not, without HNCE's prior written consent, make or give any representations, warranties or other promises concerning HNCE's business which are not contained in HNCE's marketing material.
+
+未经建工马来事先书面同意，咨询公司不得就建工马来的业务作出或给予建工马来营销材料中未包含的任何陈述、保证或其他宣传。
+
+# 5. THE PARTIES UNDERTAKE AS FOLLOWS 缔约方承诺如下：
+
+5.1. Each Party shall bear its own costs and expenses for cooperation on the Project; 各方各自承担本项目合作的成本和费用；
+
+5.2. Each Party shall perform their respective duties diligently and timeously applying the appropriate standard of care; 各方应运用适当的谨慎标准，勤勉尽责并及时地履行各方的职责；
+
+5.3. That each party shall, during the term of this Agreement, use its reasonable endeavors to promote and protect the interests of the other party; and 各方在本协议期限内，合理努力地促进和保护对方利益；以及
+
+5.4. That each Party will not do or omit to do any act, the doing of which would or might cause a breach of this Agreement.
+
+每个缔约方不会做或不做任何造成或可能导致违反本协定的行为。
+
+# 6. FEES AND PAYMENT 费用和支付：
+
+6.1. In accordance with the following terms, both parties agree that HNCE will pay RM two million(about 447580 US dollars), about  $1.85324\%$  of the contract value of the ESTABLISHMENT OF PMU 275/132/33KV KUALA TERENGGANU SOUTH Project to the Consultant, as Consultancy Fee for the Consultancy service specified in Article 4 (the "Consultancy Fee").
+
+根据下列条款，双方同意建工马来向咨询公司支付两百万林吉特（约447580美元），约为新建登嘉楼南部275/132/33KV变电站工程项目合同金额的  $1.85324\%$  ，作为本协议第4条规定的咨询服务的咨询费（“咨询费”）。
+
+6.2. Any taxes levied on the Consultancy Fee and expenses related to the remittance of the Consultancy Fee shall be borne by the Consultant. The Consultant acknowledges and agrees that should a withholding tax is applied to the Consultancy Fee according to tax laws and regulations of applicable jurisdiction, HNCE shall deduct such tax amount from the Consultancy Fee to fulfill its legal obligation under this Agreement.
+
+咨询费所征收的任何税费以及与汇付咨询费有关的费用均由咨询公司方承担。咨询公司承认并同意，如果根据适用司法管辖区的税收法律法规对咨询费适用预扣税，建工马来应从咨询费中扣除该税额，以履行其在本协议项下的法律义务。
+
+6.3. According to the conditions precedent of the Project and in order to alleviate the fund pressure of HNCE, both parties agree that the payment of Consultancy Fee will be made in line with the following method:
+
+基于本项目的生效条件，且考虑到减少建工马来项目执行的资金压力，双方同意本次咨询费根据以下方式支付：
+
+According to the agreed time and ratio of payment as follows:
+
+按照双方约定的支付节点及支付比例进行支付：
+
+a. Fifty percent  $(50\%)$  of Consultancy Fee shall be paid to the Consultant within 60 working days after the First Interim Payment is received by HNCE from the employer and within fifteen(15) working days from the date of invoice issued by the Consultant;
+
+咨询费的百分之五十（  $50\%$  ）应在建工马来从雇主处收到第一笔工程进度款后的60个工作日内，咨询公司开具发票之日起十五（15）个工作日内，建工马来支付给咨询公司；
+
+b. The remaining fifty percent  $(50\%)$  of the Consultancy Fee shall be paid to the Consultant within fifteen (15) working days from the date of the invoice issued by the Consultant, following the receipt of the payment described in Clause 6.3(a) and upon the project reaching its 12th month since commencement;
+
+咨询费的剩余百分之五十  $(50\%)$  应在咨询公司收到第6.3a)条所述的付款后，且在项目开工后的第十二个月，咨询公司开立发票之日起十五（15）个工作日内，建工马来支付给咨询公司。
+
+6.4. For each and every payment, the Consultant shall submit a written application and the corresponding formal invoice to HNCE. Without the application and the formal invoice HNCE may withhold the payment and shall not be construed as breaching of its contractual obligation under this Agreement.
+
+对于每一笔付款，咨询公司应提交书面申请和开具相应的正式发票给建工马来。如果没有提交书面申请和正式发票，建工马来可以扣留付款，且不应被解释为违反本协议项下的合同义务。
+
+6.5. The Consultant shall make its best efforts to assist HNCE in collecting payments from the Employer and try to make that the Employer will pay or /and issue payment instruction to the financing bank in a timely manner. HNCE shall make its best efforts to ensure the proper implementation of the on- site work.
+
+咨询公司应尽最大努力协助建工马来向发包人收取款项，并让发包人及时付款或/和及时向融资银行发出付款指示。建工马来应尽最大努力确保现场工作的妥善实施。
+
+6.6. If any sum is deducted from the interim payments by the Employer, the Consultancy Fee of the corresponding amount should be deducted accordingly. If the payment from the Employer to HNCE is suspended, the payment of Consultancy Fee should be suspended accordingly.
+
+如果发包人从进度款中扣除任何款项，则应相应扣除相应金额的咨询费。如果发包人暂停向建工马来支付工程款，应相应暂停支付咨询费。
+
+6.7. The account of the Consultant for receiving the payment shall be mentioned in the invoice issued by the Consultant. The Bank Account Information of the Consultant is as follows, the bank account shall be the Consultant's company account registered in Malaysia or other company account of the Consultant confirmed in writing by the Consultant and accepted by HNCE.
+
+咨询公司收取款项的账户应在咨询公司出具的发票中显示。咨询公司银行账户信息如下，银行账户应为在马来西亚注册的咨询公司公司账户，或经咨询公司书面确认并被建工马来接受的咨询公司的其他公司账户。
+
+<table><tr><td>Bank 银行</td><td>AFFIN BANK</td></tr><tr><td>Account Name
+账户名称</td><td>GREENCAP GROUP SDN BHD</td></tr><tr><td>Account Number
+账号</td><td>10-170-000936-5</td></tr><tr><td>SWIFT Code
+银行代码</td><td>PHBMMYKL</td></tr><tr><td>Bank Address</td><td>28 &amp;amp; 30, JALAN UTAMA 45, TAMAN MUTIARA RINI, 81300 SKUDAI, JOHOR, MALAYSIA.</td></tr></table>
+
+# 银行地址
+
+6.8. Any expenses incurred in connection with the bank account(s) opening and/or the extra payment remittances shall be borne by the Consultant. 与银行账户开立和/或额外汇款有关的任何费用均由咨询公司承担。
+
+6.9. The payment of Consultancy Fee shall be made in the currencies and the exchange rate in line with the Contract. If the Consultant requests the Consultancy Fee to be paid in a currency other than the one(s) applied in the Contract, HNCE may provide assistance in the currency exchange in its capacity. The losses and expenses (if any) incurred in the currency exchange process shall be borne by the Consultant. 咨询费应按合同规定的货币支付。如果咨询公司要求以合同中适用的货币以外的货币支付咨询费用，建工马来可以以其自身能力来提供货币兑换方面的协助。货币兑换过程中产生的损失和费用（如有）由咨询公司承担。
+
+咨询费应按合同规定的货币支付。如果咨询公司要求以合同中适用的货币以外的货币支付咨询费用，建工马来可以以其自身能力来提供货币兑换方面的协助。货币兑换过程中产生的损失和费用（如有）由咨询公司承担。
+
+6.10. If the Project is partially cancelled or terminated or in the event that decreases the Contract Price/Scope of Works during the execution of the Contract, the Consultancy Fee specified under Article 6.1 shall be deducted in the same proportion (the amount of the portion cancelled or terminated divides the amount of the total EPC contract). The over- paid Consultancy Fee shall be reimbursed to HNCE within twenty- eight (28) days upon notification. The above- noted reimbursement obligation shall survive the partial or complete termination, expiration, or any other circumstances under Article 9 of this Agreement.
+
+在合同执行过程中，如果项目部分取消或终止，或由于任何其他事件导致合同价格/工程范围降低，则应同比例扣除（取消或终止部分的金额/总包合同金额）。多付的咨询费应在接到通知后二十八（28）天内偿还给建工马来。上述偿付义务在本协议第9条项下的部分或全部终止，到期或任何其他情况下仍然有效。
+
+6.11. If the Project is not awarded to HNCE or the project financing is unsuccessful after signing the Contract, or if the Project is subsequently cancelled or terminated after signing both the Contract and Financing Agreement, HNCE shall be released from the obligation under Article 6.1.
+
+签订合同后未将项目授予建工马来或项目融资不成功，或签订合同和融资协议后项目随后被取消或终止的，建工马来应解除第6.1条规定的义务。
+
+# 7. COMPLIANCE WITH LAWS AND POLICIES 遵守法律及政策
+
+Obeying the law, both in letter and in spirit, is the foundation on which HNCE's ethical standards are built. The Consultant must respect and obey all applicable national, state, and local laws, regulations, rules, and HNCE's policies.
+
+在行为和精神层面遵守法律是建工马来建立道德标准的基础。咨询公司必须尊重和遵守所有适用的国家和地方的法律、法规和规章以及建工马来 的政策。
+
+7.1. The Consultant shall comply with the Mandatory Policies of HNCE, which may be amended from time to time.
+
+7.2. Each party shall, at its own expense, comply with all applicable nation, state and local laws and regulations relating to its activities under this Agreement, which may be subject to modification from time to time, and with any conditions imposed upon it by any relevant licenses, registrations, permits and approvals. If any obligations of the Consultant hereunder this Agreement conflicts with relevant laws and regulations, the Consultant shall inform HNCE immediately and ensure the relevant laws and regulations prevail.
+
+7.3. In entering into this agreement, to the best of the Consultant's knowledge, no suit, claim, action, arbitration, or legal, administrative, or other proceeding is pending or threatened against the Consultant that would affect the enforceability of this Agreement, the ability of the Consultant to fulfill its commitments hereunder in any material respect, or that could result in any material adverse change in the business condition of the Consultant. Neither party will be in violation of any of its obligations under any applicable laws, regulations, orders, directives, requests, or requirements.
+
+7.4. HNCE is authorized to execute all the payments in accordance with the terms of this Agreement and perform all its duties, without violating any applicable laws, regulations, orders, directives, requests, requirements, any express or implied agreements, or fiduciary arrangements with a Potential Customer or Third Party.
+
+建工马来有权根据本协议的条款进行支付，在不违反任何适用的法律、法规、命令、指令、请求或要求，也不违反与潜在客户或第三方的任何信托或任何明示或暗示的协议或安排前提下，履行其在本协议项下的职责或支付本协议项下的任何费用。
+
+# 8. ANTI-BRIBERY, ANTY-MONEY LAUNDERING, SANCTIONS, AND DATA PROTECTION COMPLIANCE 反贿赂、反洗钱、制裁及资料保护合规
+
+8.1. Each party hereby represents, warrants, and covenants to the other party that:
+
+各方特此向另一方声明、保证和承诺：
+
+a. In the execution of this Agreement, all consultants or business partners engaged by either party, if any, shall comply strictly with all applicable anti-corruption laws, regulations, conventions, and rules, including but not limited to relevant legislation of China, the UK Bribery Act 2010, the US Foreign Corrupt Practices Act 1977, and the United Nations Convention Against Corruption;
+
+在履行本协议时，其顾问或业务合作伙伴（如有）应严格遵守所有适用的反腐败法律，包括但不限于中国的相关立法、《2010年反贿赂法》、《1977年美国反海外腐败法》和《联合国反腐败公约》；
+
+b. Neither party shall use any corporate funds for any unlawful contribution, gift, entertainment, or other unlawful expenses relating to political activity;
+
+没有将任何公司资金用于与政治活动有关的任何非法捐款、礼物、娱乐或其他非法开支；
+
+c. Neither party, including its shareholders, Affiliates, officers, directors, employees, Consultants or business partners in connection with this Agreement, has taken or will take any actions in furtherance of an offer, payment, promise to pay, or authorization of the payment or provision of anything of value to any person, knowing that all or a portion of such value will be used to influence official actions, to obtain or retain business, or otherwise to secure any improper advantage;
+
+任何一方，包括其任何股东、关联公司、高级职员、董事或员工、其顾问或
+
+业务合作伙伴，曾经没有并且未来也不会在知道向任何人提供、给予或承诺全部或部分金钱或价值可能影响官方行动、获得或保留业务或以其任何不正当利益的情况下，采取前述行动；
+
+d. Neither party has taken or will take any action to make, offer, authorize, or request an act in furtherance of any unlawful bribe, rebate, payoff, influence payment, kickback, or other unlawful benefit to the Employer; 以前没有未来也不会作出、提供、授权、要求或采取某种行为，以促进对雇主的任何非法贿赂、回扣、报酬、影响力付款、回扣或其他非法付款或利益；
+
+e. Either party shall immediately notify the other party if it receives or becomes aware of any demands from the Employer, government officials, or any other persons for any type of funds, gifts, promises, or other benefits and such demands are related to this Agreement or the Project.
+
+如一方收到或意识到业主、政府官员或任何人向其索要任何形式款项、礼品、承诺或其他利益，且该等要求与本协议或工程相关的，应当立即通知另一方。
+
+8.2. The Consultant, along with its subsidiaries, hereby represents and warrants, that their operations have always been and shall continue to ensure the Project in compliance with all applicable financial recordkeeping and reporting requirements in all the jurisdictions relevant to the Parties' business, including those of the Bank Secrecy Act, as amended by Title III of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act), the European Union Anti- Money Laundering Directives (AMLD), Anti- money Laundering Law of the People's Republic of China, and all the other relevant anti- money laundering statutes, rules, regulations and guidelines, issued, administered or enforced by any governmental agency (collectively, the "Anti- Money Laundering Laws"), and no action, suit or proceeding by or before any court, governmental agency, authority, body or arbitrator involving the Consultant or any of its subsidiaries with respect to the Anti- Money Laundering Laws is pending or, to the best knowledge of the Consultant, threatened.
+
+咨询公司及其子公司承诺，他们的业务在任何时候都遵守，并将确保该项目遵守所有各方所在辖区内关于财务记录和报告要求，包括《银行保密法》（经2001年《提供适当工具拦截和阻止恐怖主义法》（美国爱国者法案）第三章修订）、《欧盟反洗钱指令》、《中华人民共和国反洗钱法》以及其他适用的任何政府机构发布、管理或执行的反洗钱法律、规则、条例或准则（统称为"反洗钱法"），以及就咨询公司所知任何法院、政府机构、当局或团体或任何仲裁人没有就反洗钱法提出或正在进行涉及咨询公司或其任何子公司的行动、诉讼或程序，或造成威胁。
+
+8.3. Throughout the duration of this Agreement, neither party including any of its shareholders, Affiliates, officers, directors or employees, Consultants or business partners is or will become a government official (including any officer or employee of a foreign government or government- controlled entity or of a public international organization, or any person acting in an official capacity for or on behalf of any of the foregoing, or any political party or official thereof, or candidate for political office, all of the foregoing being referred to as "Government Officials") and neither party along as its Consultants or business partners is or will be, owned, directly or indirectly, in whole or in part, or controlled by any Government or Government Official. Each party shall notify the other party immediately if at any time the foregoing representations and warranties shall not be true and correct. Immediately upon receipt of such notification, the receiving party shall have the right to either unilaterally terminate the agreement or require the notifying party to amend, at the receiving party's sole discretion, this agreement to avoid any violation or potential violation of any applicable laws, rules, and regulations.
+
+in this agreement to avoid any violation or potential violation of any applicable laws, rules, and regulations.
+
+8.4. Both Parties hereto shall comply with the Integrity Compliance Guidelines and all other relevant policies, rules, and requirements issued by the World Bank. This adherence shall be maintained throughout the duration of this Agreement, ensuring compliance with the highest standards of integrity and ethical conduct as prescribed by these guidelines and requirements.
+
+The World Bank
+
+8.5. All payments due to the Consultant under this Agreement will be made by bank transfer, and no payments will be made in cash or bearer instruments. No payments which are owed to the Consultant hereunder will be made to a third party, and all payments will be executed in the place where the Consultant's business is domiciled or where it performs services for HNCE.
+
+本协议项下应付给咨询公司的款项将通过银行转账支付，不通过现金或无记名票据支付。本协议项下欠咨询公司的款项不会支付给第三方，所有款项将在咨询公司业务所在地或为建工马来提供服务的地方支付。
+
+8.6. This Clause 8 shall not, however, prohibit normal and customary business meals, entertainment or the giving of nominal value business mementos, provided that such activities are reasonable under the circumstances and comply with the relevant anti- corruption or bribery laws.
+
+然而，本条款不应禁止正常和惯常的商务宴请和娱乐活动或赠送名义价值的商务纪念品，只要这些活动在给予或作出的情况下是合理的，并且不违反相关的反腐败或贿赂法律。
+
+8.7. The Consultant hereby undertakes the use of any funds under this contract will comply with sanctions regulations and will not cause any related persons to violate sanctions regulations. The Consultant shall not to use any funds under this Agreement, or lend, contribute, or provide funds to any third party for the purpose of supporting or facilitating sales or operations or business activities in the areas subject to sanctions by the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury from time to time, or for funding the operation or investment of any sanctioned person, or for making payments to any sanctioned person.
+
+咨询公司承诺，本协议项下任何款项的使用将遵守制裁规定，并且不会导致任何相关人士违反制裁规定。咨询公司不应将本协议项下的任何款项用于，或将款项出借、出资或提供给任何第三方用于，资助或协助任何人OFAC（即美国财政部海外资产控制办公室）不时制裁的任何地区的销售或经营活动或业务，或用于为任何制裁对象的经营或投资提供资金，或向任何制裁对象付款。
+
+8.8. Each party will comply with its respective obligations under the Data Protection Act 2018 and any other applicable laws or regulations which arise in connection with this Agreement and will co- operate with each other as necessary to enable such compliance.
+
+各方将遵守其各自在《2018年数据保护法》以及与本协议相关的任何其他适用法律或法规下的义务，并将在必要时相互合作，以实现此类合规性。
+
+8.9. Each party will ensure that it has all necessary appropriate consents and notices in place to enable the lawful transfer of any personal data to the other party for the duration and purposes of this Agreement.
+
+8.10. HNCE may transfer information (but not personal data) about the Consultant to a third party, who:
+
+a. May use, analyze and assess information about the Consultant (but not personal data), including the nature of transactions, and exchange such information with other members of their group of companies and others for credit or financial assessment, market research, statistical analysis, insurance claim, underwriting and training purposes, as well as making payments and servicing this Agreement;
+
+b. May disclose such information as strictly necessary (but not personal data) about indebtedness to the following:
+
+i. Bankers or any advisers acting on HNCE's behalf; or
+
+ii. Any business to whom indebtedness or arrangements with financiers may be transferred, in order to facilitate such transfer.
+
+8.11. In the event that HNCE transfers all or any of its rights and obligations under this Agreement to a third party in accordance with the terms of this Agreement, it may transfer information about the Consultant to enable the third party to enforce their rights or comply with the obligations.
+
+8.12. HNCE may, at any time and without notice, tape or otherwise electronically record telephone conversations with the Consultant in connection with this Agreement, and on request from the Consultant, shall provide the Consultant with copies of any such recordings. Such recordings may be submitted as evidence in any proceedings relating to this Agreement.
+
+建工马来可在任何时候，在不另行通知的情况下，以磁带或其他电子方式记录其与咨询公司之间与本协议有关的电话交谈，并应咨询公司的要求，向咨询公司提供任何此类录音的副本。此类录音可在与本协议有关的任何诉讼中作为证据提交。
+
+8.13. The Consultant acknowledges that if there is evidence to prove, or any authority accuses the Consultant, at any time, violating this Clause 8, HNCE will be released from all and any obligations under this Agreement and reserves the rights to claim damages for the Consultant's default under this Clause 7.
+
+咨询公司承认，如果有证据证明或任何当局指控咨询公司在任何时候违反了本条，建工马来将被免除本协议下的所有和任何义务，并保留对咨询公司在本第8条下的违约行为提出赔偿的权利。
+
+# 9. Confidentiality 保密
+
+9.1. Any documents, data and information provided by HNCE shall be kept in confidential by the Consultant and shall not be divulged, disclosed, or otherwise made known to any third party nor be used for any purposes other than executing this Agreement without the prior written approval of HNCE. If it is necessary to provide the aforesaid information in order to perform the Consultant's obligations, the Consultant shall request a prior written permission from HNCE. If there is evidence to prove that the Consultant, at any time, fails to comply with the confidentiality requirements, HNCE will be released from all and any obligations under this Agreement and reserve the rights to claim damages arising out of hereto.
+
+建工马来提供的任何文件，数据和信息，咨询应予以保密，不得泄露，披露或以其他方式使任何第三方知悉。未经建工马来事先书面批准，不得用于执行本协议以外的任何目的。为履行咨询义务需要提供前述资料的，咨询公司应事先向建工马来提出书面许可。如果有证据证明咨询公司在任何时候未能遵守保密要求，建工马来将被免除本协议项下的所有和任何义务并保留因本协议引起的损害赔偿的权利。
+
+9.2. Upon HNCE's written request, all documents, data, and information supplied by HNCE shall be returned or destroyed by the Consultant within fifteen (15) days of receipt of the request, and no reproduction or reservation is allowed. Return or destruction of Confidential Information shall not waive the Consultant's obligations of confidentiality under this Agreement.
+
+经建工马来书面要求，咨询公司应在收到要求后十五（15）天内归还或销毁其提供的所有文件，数据和信息，不得复制或保留。退还或销毁机密信息并不免除咨询在本协议项下的保密义务。
+
+9.3. The confidentiality obligations shall remain valid for the whole validity period of this Agreement and after the termination of this Agreement.
+
+保密义务在本协议的整个有效期内及本协议终止后继续有效。
+
+9.4. The Parties shall keep this Agreement in confidential and shall not disclose to any third party without the prior written consent of both Parties.
+
+双方应对本协议保密，未经双方事先书面同意，不得向任何第三方透露。
+
+# 10.Validity and Termination有效期和终止
+
+10.1. This Agreement shall become effective upon the signature by the Parties.
+
+本协议自双方签字之日起生效。
+
+10.2. This Agreement shall remain valid until the occurrence of the following cases, whichever is the first:
+
+本协议有效期至下列情况发生时为止，以先发生者为准：
+
+a. This Agreement is terminated by mutual consent;
+
+本协议经双方同意终止；
+
+b. The Project is not awarded to HNCE; or
+
+项目未授予建工马来；或
+
+c. HNCE receives the Performance Certificate and return of Performance Security and Warranty Security and the full amount of the Project payment, and the Consultant receives all due payment of the Consultancy Fee under this Agreement.
+
+建工马来收到履约证明和履约保函及质保保函的回执以及全部合同款项，咨询公司收到根据本协议所有的咨询服务费。
+
+10.3. This Agreement shall be automatically terminated until the occurrence of the following cases, whichever is the first:
+
+a. The Consultant is unable to substantially promote the bidding, negotiation and signing of the Contract within six (6) months after signing this Agreement; 咨询公司在本协议签署后六(6)个月内不能实质性地推动投标,谈判和合同的签署; 
+b. The round of bidding for the Project is cancelled, or the Project is suspended from development for two (2) years by the Employer; 发包人取消本项目的该轮投标或暂停本项目开发两年; 
+c. The MOU (if any) has not been signed within twelve (12) months since the date of signing this Agreement, or the Contract has not been signed within two(2) years since the date of signing this Agreement; 自本协议签署之日起十二（12）个月内未签署MOU（如有），或自本协议签署之日起两（2）年内未签署合同; 
+d. The Financing Agreement has not been signed within two (2) years since the date of signing the Contract; 自合同签订之日起两（2）年内未签订融资协议; 
+e. HNCE, at its sole discretion, has decided not to continue pursuing the Project or to withdraw from the bidding process; 建工马来自行决定不再继续从事该项目或退出投标; 
+f. The Contract or the Project is suspended, cancelled or terminated by the Employer, or through mutual consent or as a result of legal proceedings; 合同或工程被发包人或经双方同意或经法律诉讼中止，取消或终止; 
+g. Either Party becomes insolvent, bankrupt, or enters into liquidation, or arrange an agreement or composition with creditors, or if a receiver is appointed over any parts of its business or assets, or if a petition for an administration order is presented; or 任何一方破产，破产，或进行清算，或与债权人订立协议或和解，或指定接管人接管其业务或资产的任何部分，或提出管理令申请；或 
+h. The Consultant refuses to perform, fundamentally breaches its obligations
+
+and covenants under this Agreement or experiences any change in public relations or other similar circumstances rendering the Consultant manifestly unable to perform its obligations under this Agreement.
+
+咨询公司拒绝履行或根本违反其在本协议项下的义务和契约，或任何公共关系的改变或其他类似情况使咨询明显无法履行其在本协议项下的义务。
+
+10.4. Upon the termination of this Agreement, the Parties shall be released from all contractual obligations.
+
+本协议终止时，双方应解除所有合同义务。
+
+10.5. If any provision of this Agreement is or becomes invalid, ineffective, or unenforceable in any jurisdiction, that shall not affect the validity or enforceability of any other provision of this Agreement in that jurisdiction, nor the validity or enforceability of that or any other provision of this Agreement in other jurisdictions.
+
+如果本协议的任何条款在任何司法管辖区无效，无效或不可执行，则不影响本协议的任何其他条款在该司法管辖区的有效性或可执行性，也不影响本协议的该条款或任何其他条款在其他司法管辖区的有效性或可执行性。
+
+# 11.NOTICESANDSERVICE通知和服务
+
+11.1. Any notice or other information required or authorized by this Agreement to be given by either party to the other shall be given as follows:
+
+任何一方向另一方提供的本协议要求或授权的任何通知或其他信息应由以下方式给出：
+
+a. Any notice or information sent by post, not returned as undelivered, shall be deemed to have been given on the  $15^{\mathrm{th}}$  day after the envelope containing it was so posted; and proof that the envelope containing any such notice or information was properly addressed, pre-paid, registered and posted, and that it has not been so returned to the sender shall be sufficient evidence that the notice or information has been duly given;
+
+通过邮寄形式发出的任何通知或信息，如果没有以未送达的情形退还给发件人，应当视为已经在发送信封的第15天发出；并且证明包含任何此类通知或信息的信封被妥善处理，预付，登记和张贴，并且没有退还给发件人，应该是足够的证据表明通知或信息已经被正确给出；
+
+b. Any notice or information sent by facsimile transmission or comparable
+
+means of communication shall be deemed to have been duly given on the date of transmission, provided that a confirming copy of it is sent to the other party at the address given above within 24 hours after transmission.
+
+通过传真或相当的通信方式发送的任何通知或信息，应视为已在发送之日适当给出，前提是其确认副本在信息发出后24小时内以上进给出的地址送达给对方。
+
+11.2. Service of any document for the purposes of any legal proceedings concerning or arising out of this Agreement shall be effected by delivering to the other party as its registered or principal office, or to such other address as may be notified by the other party in writing from time to time.
+
+任何与本协议有关或由本协议产生的法律程序的任何文件服务的生效，均需由任何一方交付给另一方的注册地址或主要办公场所或其他可能以书面形式通知的其他地址。
+
+# 12. Applicable Law 适用法律
+
+This Agreement shall be governed by and construed in accordance with the substantive laws of the the People's Republic of China.
+
+本协议受中华人民共和国实体法管辖并按其解释
+
+# 13. LIABILITY AND INDEMNITY
+
+13.1. HNCE shall have no liability to the Consultant by virtue of the terms of this Agreement. Save in respect of non- payment of a Fee due hereunder, the Consultant shall have no claim whatsoever against HNCE.
+
+根据本协议的条款，建工马来对咨询公司不承担任何责任。除未支付本协议项下的应付费用外，顾问不得向建工马来提出任何索赔。
+
+13.2. The Consultant shall, to the extent permitted by law, indemnify in full and hold HNCE harmless against any and all claims, direct, indirect and consequential losses, costs or damages brought against HNCE where such claim arises out of or in connection with any failure by the Consultant to provide the Services, or any negligence or misconduct in respect of the provision of the Services.
+
+在法律允许的范围内，对于因咨询公司未能提供服务或在提供服务方面的任何疏忽或不当行为而对建工马来提出的任何和所有索赔、直接、间接和后果性损失、费用或损害，咨询公司应全额赔偿建工马来，并使建工马来免受损害。
+
+# 14.ARBITRATION争议解决
+
+14.1. If any dispute arising from or in connection with this Agreement, the Parties shall first endeavor in good faith to reach agreement through amicable negotiation. Should such agreement failed to be reached within sixty (60) days, the dispute shall be finally submitted to CHINA INTERNATIONAL ECONOMIC AND TRADE ARBITRATION COMMISSION for arbitration in accordance with the Commission's arbitration rules in effective at the time applying for arbitration. The arbitration award shall be final and binding upon both Parties.如因本协议引起或与本协议有关的任何争议, 双方应首先本着诚意通过友好协商达成一致。如果在六十 (60) 天内未能达成协议, 争议最终应提交中国国际经济贸易仲裁委员会, 按照申请仲裁时该会现行有效的仲裁规则进行仲裁。仲裁裁决为终局裁决, 对双方均具有约束力。
+
+如因本协议引起或与本协议有关的任何争议, 双方应首先本着诚意通过友好协商达成一致。如果在六十 (60) 天内未能达成协议, 争议最终应提交中国国际经济贸易仲裁委员会, 按照申请仲裁时该会现行有效的仲裁规则进行仲裁。仲裁裁决为终局裁决, 对双方均具有约束力。
+
+14.2. The seat of arbitration shall be China, and the language of the proceedings shall be Chinese.仲裁地为中国, 仲裁语言为中文
+
+仲裁地为中国,仲裁语言为中文
+
+14.3. Neither Party shall be released from performing its other obligations under this Agreement during the dispute resolution period.在争议解决期间, 任何一方均不得解除履行其在本协议项下的其他义务。
+
+在争议解决期间,任何一方均不得解除履行其在本协议项下的其他义务。
+
+# 15.MISCELLANEOUS杂项
+
+15.1. Each party shall from time to time (both during the continuance of this Agreement and after its termination) perform all such acts and execute all such documents as may be reasonably necessary in order to give effect to the provisions of this Agreement.为使本协议生效, 各方应不时 (在本协议持续期间和本协议终止后) 采取所有合理必要的行动并签署所有必要的文件。
+
+为使本协议生效,各方应不时(在本协议持续期间和本协议终止后)采取所有合理必要的行动并签署所有必要的文件。
+
+15.2. This Agreement may only be modified, varied, or amended by both Parties in writing.双方只能书面修改, 更改或修改本协议。
+
+双方只能书面修改,更改或修改本协议。
+
+15.3. This Agreement is executed in both English and Chinese. In case of any inconsistency between the two languages, the English version shall prevail.本协议以中英文签署,如中英文存在不一致,以英文版本为准。
+
+本协议以中英文签署,如中英文存在不一致,以英文版本为准。
+
+15.4. This Agreement shall be executed in a number of FOUR(4) counterparts. Each parties shall hold TWO (2) counterparts.本协议一式四(4)份,每一当事方持有两(2)份。
+
+本协议一式四（4）份,每一当事方持有两（2）份。
+
+IN WITNESS, whereof each of the parties has executed this Agreement in a manner binding upon it the day and year first above written.鉴于此,在双方签订协议的日期执行本协议。
+
+鉴于此,在双方签订协议的日期执行本协议。
+
+Hunan Construction Engineering (M) Sdn. Greencap Group SDN BHD Bhd.湖南建工集团马来西亚有限公司 Greencap集团有限公司
+
+湖南建工集团马来西亚有限公司
+
+NAME姓名:
+
+![](images/23fa692766eb97d5e56661d0be9fbea21bb8cf22a63c818b4067fcea13e0fe7e.jpg)
+
+Greencap集团有限公司
+
+NAME姓名:
+
+![](images/0cbcbcb3e95aabdec8b99ea20ce8c485ea65e269e2f99d801ee8a726a4a55b75.jpg)
+
+OCCUPATION职务:ManagingDirector
+
+OCCUPATION职务:Director
+
+Contact联系方式:60129266689 Date日期:xx/12/2024
+
+Contact联系方式:60196226068 Date日期:xx/12/2024
+
+WITNESS见证人
+
+WITNESS见证人
+
+NAME姓名:
+
+![](images/dc938dd7ab54c3897a8b0aee4280815c32bd680f3e3f4648327297c24d81babc.jpg)
+
+POSITION职务:Administrator
+
+Contact联系方式:60146580830 Date日期:xx/12/2024
+
+![](images/1a1278361514d4636d1f7946e714d34bef2714509171bff3c537fdd322d6ac39.jpg)
+
+![](images/b76805508797d80acee8ea29de9ee7d63094e3d0ca933c4bbd857b29be8e702b.jpg)
