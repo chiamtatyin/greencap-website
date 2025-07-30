@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Target, Eye, Heart, Award, Users, Globe, Shield, Building2, Zap, CheckCircle, Calendar, MapPin } from 'lucide-react'
+import { Target, Eye, Heart, Award, Globe, Shield } from 'lucide-react'
 import { Card, CardHeader, CardContent } from '@/components/ui/Card'
 
 export const About: React.FC = () => {
