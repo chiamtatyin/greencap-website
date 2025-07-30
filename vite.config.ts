@@ -4,7 +4,7 @@ import path from 'node:path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/greencap-website/', // Add this line for GitHub Pages deployment
+  base: './', // Use relative path for GitHub Pages and Cloudflare Pages deployment
   plugins: [react()],
   resolve: {
     alias: {
