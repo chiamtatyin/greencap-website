@@ -1,18 +1,18 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
-import { 
-  ArrowRight, 
-  CheckCircle, 
-  Users, 
-  Award, 
-  TrendingUp, 
-  Globe, 
-  Shield, 
-  Zap, 
-  Building2, 
-  Target, 
-  Star, 
+import {
+  ArrowRight,
+  CheckCircle,
+  Users,
+  Award,
+  TrendingUp,
+  Globe,
+  Shield,
+  Zap,
+  Building2,
+  Target,
+  Star,
   MapPin,
   Sparkles,
   ChevronRight,
@@ -154,7 +154,7 @@ export const NewHome: React.FC = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-primary-900 via-primary-800 to-accent-900"></div>
         <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&h=1080&fit=crop')] bg-cover bg-center opacity-20"></div>
         <div className="absolute inset-0 bg-gradient-to-t from-primary-900/80 via-primary-800/60 to-transparent"></div>
-        
+
         {/* Partner Logos Floating */}
         <div className="absolute top-1/4 left-10 opacity-10">
           <div className="w-24 h-12 bg-white/20 rounded-lg flex items-center justify-center">
@@ -171,7 +171,7 @@ export const NewHome: React.FC = () => {
             <span className="text-white text-xs font-bold">GTS</span>
           </div>
         </div>
-        
+
         {/* Floating Elements */}
         <div className="absolute top-20 left-10 w-20 h-20 bg-accent-500/20 rounded-full blur-xl animate-pulse"></div>
         <div className="absolute bottom-32 right-16 w-32 h-32 bg-blue-500/20 rounded-full blur-xl animate-pulse delay-1000"></div>
@@ -212,7 +212,7 @@ export const NewHome: React.FC = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-xl md:text-2xl text-gray-200 mb-10 max-w-3xl mx-auto leading-relaxed"
             >
-              PKK Class A & CIDB G7 certified construction and engineering excellence. 
+              PKK Class A & CIDB G7 certified construction and engineering excellence.
               Delivering mega projects worth RM 500M+ across Malaysia and beyond.
             </motion.p>
 
@@ -222,18 +222,22 @@ export const NewHome: React.FC = () => {
               transition={{ duration: 0.8, delay: 0.5 }}
               className="flex flex-col sm:flex-row gap-6 justify-center items-center"
             >
-              <Link to="/contact">
+              <a
+                href="https://wa.me/60196226068?text=Hello!%20I%20would%20like%20to%20start%20a%20project%20with%20Greencap%20Group."
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Button variant="accent" size="xl" className="group">
                   Start Your Project
                   <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </Button>
+              </a>
+              <Link to="/projects">
+                <Button variant="outline" size="xl" className="border-white/30 text-white hover:bg-white/10">
+                  View Our Projects
+                  <ChevronRight className="ml-2 h-5 w-5" />
+                </Button>
               </Link>
-              <button className="flex items-center space-x-3 text-white hover:text-accent-400 transition-colors group">
-                <div className="w-14 h-14 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center border border-white/20 group-hover:bg-white/20 transition-all">
-                  <Play className="w-6 h-6 ml-1" />
-                </div>
-                <span className="font-semibold">Watch Our Story</span>
-              </button>
             </motion.div>
           </motion.div>
         </div>
@@ -320,7 +324,7 @@ export const NewHome: React.FC = () => {
                   <CardContent>
                     <div className="flex flex-wrap gap-2">
                       {service.features.map((feature, idx) => (
-                        <span 
+                        <span
                           key={idx}
                           className="px-3 py-1 bg-accent-100 text-accent-700 text-sm rounded-full font-medium"
                         >
@@ -415,8 +419,8 @@ export const NewHome: React.FC = () => {
                   <CardContent>
                     <div className="flex items-start space-x-6 mb-6">
                       <div className="w-20 h-12 bg-gradient-to-r from-primary-100 to-accent-100 rounded-xl flex items-center justify-center overflow-hidden group-hover:scale-105 transition-transform duration-300">
-                        <img 
-                          src={partner.logo} 
+                        <img
+                          src={partner.logo}
                           alt={partner.name}
                           className="w-full h-full object-cover"
                         />
@@ -430,7 +434,7 @@ export const NewHome: React.FC = () => {
                         </div>
                       </div>
                     </div>
-                    
+
                     <p className="text-primary-600 leading-relaxed mb-6">
                       {partner.description}
                     </p>
@@ -467,7 +471,7 @@ export const NewHome: React.FC = () => {
                 Global Network of Excellence
               </h3>
               <p className="text-primary-600 mb-6 max-w-2xl mx-auto">
-                Our strategic partnerships span across Fortune 500 companies, state-owned enterprises, and specialized contractors, 
+                Our strategic partnerships span across Fortune 500 companies, state-owned enterprises, and specialized contractors,
                 enabling us to deliver comprehensive solutions for the most complex engineering challenges.
               </p>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
@@ -522,8 +526,8 @@ export const NewHome: React.FC = () => {
               >
                 <div className="bg-white/10 backdrop-blur-sm rounded-2xl overflow-hidden border border-white/20 group-hover:bg-white/20 transition-all duration-300">
                   <div className="relative overflow-hidden">
-                    <img 
-                      src={project.image} 
+                    <img
+                      src={project.image}
                       alt={project.title}
                       className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500"
                     />
@@ -580,16 +584,20 @@ export const NewHome: React.FC = () => {
               Ready to Build Something Amazing?
             </h2>
             <p className="text-xl mb-10 opacity-90">
-              Let's discuss how our expertise can bring your vision to life. From concept to completion, 
+              Let's discuss how our expertise can bring your vision to life. From concept to completion,
               we're your trusted partner in engineering excellence.
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-              <Link to="/contact">
+              <a
+                href="https://wa.me/60196226068?text=Hello!%20I%20would%20like%20to%20inquire%20about%20your%20services."
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Button variant="secondary" size="xl" className="bg-white text-accent-600 hover:bg-gray-100">
                   Get Started Today
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
-              </Link>
+              </a>
               <Link to="/about">
                 <Button variant="outline" size="xl" className="border-white text-white hover:bg-white hover:text-accent-600">
                   Learn More About Us
