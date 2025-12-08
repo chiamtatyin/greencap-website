@@ -30,7 +30,16 @@ export const Team: React.FC = () => {
       phone: "+60-19-6226068",
       bio: "Captain (R) Tan Chee Hian has a Master's Degree in Structural Engineering and Environmental Engineering from UM, Malaysia. He has a distinguished career in the military and the private sector, with expertise in precast technology and construction management.",
       expertise: ["Structural Engineering", "Environmental Engineering", "Precast Technology", "Military Leadership"],
-      avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face"
+      avatar: "/images/captain-tan.png"
+    },
+    {
+      name: "Mohd Shukor Bin Mohd Said",
+      title: "Senior Electrical Engineer",
+      email: "shukorsaid68@gmail.com",
+      phone: "011-61364012",
+      bio: "Mohd Shukor Bin Mohd Said is a highly experienced electrical engineer with over 34 years in the industry. Former Assistant Electrical Engineer at Jabatan Kerja Raya Malaysia, he holds a Diploma in Electrical Power from Kementerian Pendidikan Malaysia. His expertise spans electrical design (ACAD), project management for HT/LV/ELV systems, facilities asset management, and ISO 9002 procurement. He received the APC Year Award for Government in 2016.",
+      expertise: ["Electrical Design (ACAD)", "Project Management (HT/LV/ELV)", "Facilities Asset Management", "ISO 9002 Procurement"],
+      avatar: "/images/mohd-shukor.png"
     },
     {
       name: "Mohd Faidzullah Bin Yusof@ Mohd",
@@ -107,8 +116,8 @@ export const Team: React.FC = () => {
                   <CardHeader>
                     <div className="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-6">
                       <div className="relative">
-                        <img 
-                          src={member.avatar} 
+                        <img
+                          src={member.avatar}
                           alt={member.name}
                           className="w-24 h-24 rounded-full object-cover border-4 border-primary-100"
                         />
@@ -145,7 +154,7 @@ export const Team: React.FC = () => {
                       </h4>
                       <div className="flex flex-wrap gap-2">
                         {member.expertise.map((skill, idx) => (
-                          <span 
+                          <span
                             key={idx}
                             className="px-3 py-1 bg-primary-100 text-primary-700 text-sm rounded-full"
                           >

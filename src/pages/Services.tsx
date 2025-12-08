@@ -1,19 +1,18 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { 
-  Users, 
-  TrendingUp, 
-  FileText, 
-  Lightbulb, 
-  Brain, 
-  Building, 
-  Wrench, 
+import {
+  Users,
+  TrendingUp,
+  FileText,
+  Lightbulb,
+  Brain,
+  Building,
+  Wrench,
   MessageSquare,
-  ArrowRight 
+  ArrowRight,
+  CheckCircle2
 } from 'lucide-react'
 import { Card, CardHeader, CardContent } from '@/components/ui/Card'
-import { Button } from '@/components/ui/Button'
-import { Link } from 'react-router-dom'
 
 export const Services: React.FC = () => {
   const services = [
@@ -86,7 +85,7 @@ export const Services: React.FC = () => {
             className="text-center max-w-4xl mx-auto"
           >
             <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              Our <span className="text-primary-600">Comprehensive Services</span>
+              Our <span className="text-accent-600">Comprehensive Services</span>
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
               From strategic consulting to technical implementation, we provide end-to-end solutions that drive success across every phase of your project.
@@ -107,13 +106,13 @@ export const Services: React.FC = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
               >
-                <Card className="h-full group cursor-pointer">
+                <Card className="h-full group cursor-pointer hover:shadow-xl transition-all duration-300">
                   <CardHeader>
-                    <div className="flex items-center mb-4">
-                      <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center mr-4 group-hover:bg-primary-600 transition-colors duration-300">
-                        <service.icon className="h-6 w-6 text-primary-600 group-hover:text-white transition-colors duration-300" />
+                    <div className="flex items-start mb-4">
+                      <div className="w-14 h-14 bg-accent-100 rounded-xl flex items-center justify-center mr-4 group-hover:bg-accent-600 transition-colors duration-300 flex-shrink-0">
+                        <service.icon className="h-7 w-7 text-accent-600 group-hover:text-white transition-colors duration-300" />
                       </div>
-                      <h3 className="text-xl font-bold text-gray-900 group-hover:text-primary-600 transition-colors duration-300">
+                      <h3 className="text-xl font-bold text-gray-900 group-hover:text-accent-600 transition-colors duration-300">
                         {service.title}
                       </h3>
                     </div>
@@ -122,9 +121,9 @@ export const Services: React.FC = () => {
                     <p className="text-gray-600 mb-4 leading-relaxed">{service.description}</p>
                     <ul className="space-y-2">
                       {service.features.map((feature, idx) => (
-                        <li key={idx} className="flex items-center text-sm text-gray-500">
-                          <div className="w-1.5 h-1.5 bg-primary-600 rounded-full mr-2"></div>
-                          {feature}
+                        <li key={idx} className="flex items-start text-sm text-gray-600">
+                          <CheckCircle2 className="w-4 h-4 mr-2 flex-shrink-0 text-accent-600 mt-0.5" />
+                          <span>{feature}</span>
                         </li>
                       ))}
                     </ul>
@@ -137,7 +136,7 @@ export const Services: React.FC = () => {
       </section>
 
       {/* Process Section */}
-      <section className="section-padding bg-gray-50">
+      <section className="section-padding bg-gradient-to-br from-primary-800 via-primary-900 to-gray-900">
         <div className="container-custom">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -145,8 +144,8 @@ export const Services: React.FC = () => {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Process</h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <h2 className="text-4xl lg:text-5xl font-bold text-white mb-6">Our Process</h2>
+            <p className="text-xl text-white/80 max-w-3xl mx-auto">
               We follow a proven methodology that ensures successful project delivery and exceeds client expectations.
             </p>
           </motion.div>
@@ -159,18 +158,18 @@ export const Services: React.FC = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: index * 0.2 }}
-                className="text-center"
+                className="text-center relative"
               >
                 <div className="relative mb-6">
-                  <div className="w-16 h-16 bg-primary-600 text-white rounded-full flex items-center justify-center text-xl font-bold mx-auto">
+                  <div className="w-20 h-20 bg-accent-600 text-white rounded-2xl flex items-center justify-center text-2xl font-bold mx-auto shadow-xl">
                     {step.step}
                   </div>
                   {index < processSteps.length - 1 && (
-                    <div className="hidden lg:block absolute top-8 left-full w-full h-0.5 bg-primary-200 -translate-y-0.5"></div>
+                    <div className="hidden lg:block absolute top-10 left-[calc(50%+2.5rem)] w-[calc(100%+2rem)] h-0.5 bg-white/20"></div>
                   )}
                 </div>
-                <h3 className="text-xl font-bold text-gray-900 mb-2">{step.title}</h3>
-                <p className="text-gray-600">{step.description}</p>
+                <h3 className="text-2xl font-bold text-white mb-3">{step.title}</h3>
+                <p className="text-white/70">{step.description}</p>
               </motion.div>
             ))}
           </div>
@@ -178,7 +177,7 @@ export const Services: React.FC = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="section-padding bg-primary-600">
+      <section className="section-padding bg-accent-600">
         <div className="container-custom">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -186,16 +185,21 @@ export const Services: React.FC = () => {
             viewport={{ once: true }}
             className="text-center text-white"
           >
-            <h2 className="text-4xl font-bold mb-6">Ready to Get Started?</h2>
+            <h2 className="text-4xl lg:text-5xl font-bold mb-6">Ready to Get Started?</h2>
             <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
               Let's discuss how our comprehensive services can help you achieve your project goals and drive success.
             </p>
-            <Link to="/contact">
-              <Button variant="secondary" size="lg" className="bg-white text-primary-600 hover:bg-gray-100">
-                Contact Our Experts
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
-            </Link>
+            <motion.a
+              href="https://wa.me/60196226068?text=Hello!%20I%20would%20like%20to%20inquire%20about%20your%20services."
+              target="_blank"
+              rel="noopener noreferrer"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="inline-flex items-center gap-2 bg-white text-accent-600 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-gray-100 transition-all duration-300 shadow-xl"
+            >
+              Contact Our Experts
+              <ArrowRight className="h-5 w-5" />
+            </motion.a>
           </motion.div>
         </div>
       </section>
