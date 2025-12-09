@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Mail, Phone, Linkedin, Award, GraduationCap } from 'lucide-react'
+import { Mail, Phone, Linkedin, Award, GraduationCap, User } from 'lucide-react'
 import { Card, CardHeader, CardContent } from '@/components/ui/Card'
 
 export const Team: React.FC = () => {
@@ -11,8 +11,7 @@ export const Team: React.FC = () => {
       email: "Zrohaizi@gmail.com",
       phone: "+60-13-7308812",
       bio: "Dato Ir Prof. Dr Hj. ROHAIZI BIN HJ MOHD JUSOH is a distinguished industry leader with over 30 years of exceptional experience spanning international and local construction sectors. He holds a PhD in Business Administration (Cooperative) from Sabi University France, B.Eng (Hons) Civil Engineering from University of Glasgow, Diploma in Civil Engineering from UTM, and Certificate in Human Resource from USM. His career began as an Engineer with Wimpey Construction Ltd in the UK (1990-1992), followed by senior roles at MARA and various leadership positions at CIDB Malaysia including Regional Manager, Director, General Manager, and CEO of CREAM. He served as Director in the Prime Minister's Department (Technical) from 2014-2018, retiring in 2022 after an illustrious career.",
-      expertise: ["Construction Industry Development", "Business Administration", "Strategic Planning", "Industry Leadership", "Policy Development", "Educational Leadership"],
-      avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+      expertise: ["Construction Industry Development", "Business Administration", "Strategic Planning", "Industry Leadership", "Policy Development", "Educational Leadership"]
     },
     {
       name: "Hishamuddin Bin Selamat",
@@ -20,8 +19,7 @@ export const Team: React.FC = () => {
       email: "hishamuddin640102@gmail.com",
       phone: "+60-16-7487889",
       bio: "Hishamuddin Bin Selamat has a long and successful career in the construction industry, with experience in project management, coating, waterproofing, and fire protection. He is currently the Managing Director of Greencap AI Group Sdn Bhd.",
-      expertise: ["Project Management", "Construction Technology", "Waterproofing Systems", "Fire Protection"],
-      avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+      expertise: ["Project Management", "Construction Technology", "Waterproofing Systems", "Fire Protection"]
     },
     {
       name: "Captain (R) Tan Chee Hian 陳志賢",
@@ -46,8 +44,7 @@ export const Team: React.FC = () => {
       title: "Senior Advisor",
       phone: "012-7157973",
       bio: "Mohd Faidzullah Bin Yusof@ Mohd has a background in research management and public administration. He is currently the Penghulu Kanan at Pejabat Daerah Batu Pahat.",
-      expertise: ["Public Administration", "Research Management", "Government Relations", "Community Leadership"],
-      avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&crop=face"
+      expertise: ["Public Administration", "Research Management", "Government Relations", "Community Leadership"]
     }
   ]
 
@@ -116,11 +113,17 @@ export const Team: React.FC = () => {
                   <CardHeader>
                     <div className="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-6">
                       <div className="relative">
-                        <img
-                          src={member.avatar}
-                          alt={member.name}
-                          className="w-24 h-24 rounded-full object-cover border-4 border-primary-100"
-                        />
+                        {member.avatar ? (
+                          <img
+                            src={member.avatar}
+                            alt={member.name}
+                            className="w-24 h-24 rounded-full object-cover border-4 border-primary-100"
+                          />
+                        ) : (
+                          <div className="w-24 h-24 rounded-full bg-gradient-to-br from-primary-500 to-primary-700 flex items-center justify-center border-4 border-primary-100">
+                            <User className="w-12 h-12 text-white" />
+                          </div>
+                        )}
                         <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-primary-600 rounded-full flex items-center justify-center">
                           <Award className="w-4 h-4 text-white" />
                         </div>
