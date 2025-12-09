@@ -14,8 +14,8 @@ export const Footer: React.FC = () => {
                 <span className="text-white font-bold text-xl">G</span>
               </div>
               <div>
-                <h3 className="text-lg font-bold">Greencap Group</h3>
-                <p className="text-sm text-gray-400">Construction & Engineering</p>
+                <h3 className="text-lg font-bold">Greencap AI Group Sdn. Bhd.</h3>
+                <p className="text-sm text-gray-400">(1608960-K)</p>
               </div>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -43,7 +43,6 @@ export const Footer: React.FC = () => {
                 { path: '/services', label: 'Services' },
                 { path: '/team', label: 'Our Team' },
                 { path: '/projects', label: 'Projects' },
-                { path: '/contact', label: 'Contact' },
               ].map((link) => (
                 <li key={link.path}>
                   <Link
@@ -72,21 +71,46 @@ export const Footer: React.FC = () => {
           {/* Contact Info */}
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
-            <div className="space-y-3">
-              <div className="flex items-start space-x-3">
-                <MapPin size={16} className="text-primary-400 mt-1 flex-shrink-0" />
-                <div className="text-sm text-gray-400">
-                  <p>No.32 Wisma SPS, Jalan Imbi</p>
-                  <p>55100 Kuala Lumpur, Malaysia</p>
+            <div className="space-y-4">
+              {/* HQ Address */}
+              <div>
+                <p className="text-xs text-gray-500 font-semibold mb-2">Headquarters</p>
+                <div className="flex items-start space-x-3">
+                  <MapPin size={16} className="text-primary-400 mt-1 flex-shrink-0" />
+                  <div className="text-sm text-gray-400">
+                    <p>No.32 Wisma SPS, Jalan Imbi</p>
+                    <p>55100 Kuala Lumpur, Malaysia</p>
+                  </div>
                 </div>
               </div>
-              <div className="flex items-center space-x-3">
-                <Phone size={16} className="text-primary-400 flex-shrink-0" />
-                <span className="text-sm text-gray-400">+60-19-6226068</span>
+
+              {/* Branch Address */}
+              <div>
+                <p className="text-xs text-gray-500 font-semibold mb-2">Branch Office</p>
+                <div className="flex items-start space-x-3">
+                  <MapPin size={16} className="text-primary-400 mt-1 flex-shrink-0" />
+                  <div className="text-sm text-gray-400">
+                    <p>16A, Jalan Ronggeng 11</p>
+                    <p>Taman Skudai Baru 81300</p>
+                    <p>Skudai, Johor, Malaysia</p>
+                  </div>
+                </div>
               </div>
-              <div className="flex items-center space-x-3">
-                <Mail size={16} className="text-primary-400 flex-shrink-0" />
-                <span className="text-sm text-gray-400">greencap.captain@gmail.com</span>
+
+              {/* Contact Numbers */}
+              <div className="space-y-2">
+                <div className="flex items-center space-x-3">
+                  <Phone size={16} className="text-primary-400 flex-shrink-0" />
+                  <span className="text-sm text-gray-400">+60-19-6226068</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <Phone size={16} className="text-primary-400 flex-shrink-0" />
+                  <span className="text-sm text-gray-400">+607-5596107</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <Mail size={16} className="text-primary-400 flex-shrink-0" />
+                  <span className="text-sm text-gray-400">greencap.captain@gmail.com</span>
+                </div>
               </div>
             </div>
           </div>
@@ -94,7 +118,7 @@ export const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Greencap Group Sdn. Bhd. All rights reserved.
+            Â© 2025 Greencap AI Group Sdn. Bhd. (1608960-K). All rights reserved.
           </p>
         </div>
       </div>
